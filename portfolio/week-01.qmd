@@ -1,8 +1,8 @@
 ---
 title: "Character Map"
 week: 1
-status: "Belum dimulai"
-self_score: "—"
+status: "Siap dinilai"
+self_score: "85"
 assessor_score: "—"
 description: "Evidence person, personality, character, objective, repertoire, language, action, dan relationship."
 categories: [Fondasi, Person]
@@ -14,12 +14,60 @@ Membedakan person, personality, dan character serta memilih objective, repertoir
 
 ## Evidence wajib
 
-- Lima character dari sedikitnya tiga domain kehidupan.
-- Objective, responsibility, repertoire, dan risiko tiap character.
-- Satu contoh perubahan language ketika character berubah.
+Berikut adalah pemetaan *character* dari tiga domain kehidupan saya (akademik, organisasi/kepanitiaan, dan personal/keluarga):
 
-::: {.callout-tip title="Lihat contoh pengisian"}
-[Buka contoh fiktif Minggu 1](../examples/week-01.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
+### 1. Domain Akademik: Mahasiswa / Praktikan Mata Kuliah
+- **Character:** Mahasiswa Analitis & Kolaboratif
+- **Objective:** Memahami konsep teknis sistem/teknologi dan menyelesaikan tugas kelompok secara efektif tanpa miskomunikasi.
+- **Responsibility:** Menyerap materi kuliah, aktif bertanya saat diskusi kelas, dan menyelesaikan bagian tugas pemrograman/analisis tepat waktu.
+- **Repertoire:** Menggunakan nada bicara yang sopan namun kritis, mengajukan pertanyaan berbasis argumen logis, dan menyimak aktif saat dosen atau rekan setim berbicara.
+- **Risiko Komunikasi:** Terlalu fokus pada aspek teknis/logika sehingga terkesan kaku atau kurang peka terhadap dinamika emosional anggota tim.
+
+### 2. Domain Akademik: Ketua Kelompok Tugas Besar / Project
+- **Character:** Project Coordinator / Fasilitator
+- **Objective:** Menyamakan visi anggota kelompok, membagi peran secara adil, dan memastikan progres proyek berjalan sesuai *timeline*.
+- **Responsibility:** Mengatur jadwal *progress tracking*, menengahi perbedaan pendapat antar anggota, dan memastikan kualitas hasil akhir.
+- **Repertoire:** Komunikasi asertif, memberikan apresiasi atas kontribusi anggota, menggunakan bahasa yang memotivasi, serta bersikap terbuka terhadap masukan.
+- **Risiko Komunikasi:** Terlihat terlalu mendikte (*micromanaging*) jika tenggat waktu sudah dekat dan stres meningkat.
+
+### 3. Domain Organisasi: Pengurus/Panitia Kegiatan Kampus (STEI)
+- **Character:** Perwakilan Hubungan Eksternal / Komunikator Acara
+- **Objective:** Menyampaikan informasi acara dengan jelas kepada peserta atau pihak eksternal serta menjaga citra positif organisasi.
+- **Responsibility:** Menyusun *broadcast* pesan, memandu koordinasi registrasi, dan merespons pertanyaan peserta dengan ramah.
+- **Repertoire:** Menggunakan nada yang ramah, profesional, menyapa dengan antusias, serta merespons pesan secara cepat dan solutif.
+- **Risiko Komunikasi:** Kehabisan energi sosial (*social battery*) yang berisiko membuat respon teks terkesan singkat atau dingin jika tidak dikelola dengan baik.
+
+### 4. Domain Personal/Keluarga: Anggota Keluarga di Rumah (Sebagai Adik/Kakak)
+- **Character:** Anggota Keluarga yang Santai dan Kooperatif
+- **Objective:** Menjaga keharmonisan rumah, meringankan beban di rumah, dan menjaga komunikasi yang hangat dengan anggota keluarga.
+- **Responsibility:** Membantu urusan rumah tangga saat senggang dan mendengarkan cerita keseharian keluarga.
+- **Repertoire:** Menggunakan bahasa sehari-hari yang santai, akrab, penuh canda, dan menggunakan nada bicara yang hangat.
+- **Risiko Komunikasi:** Terlalu santai atau terbawa suasana lelah kuliah sehingga kurang merespons obrolan keluarga dengan antusias.
+
+### 5. Domain Personal/Pengembangan Diri: Teman Diskusi / Peer Mentor
+- **Character:** Pendengar yang Objektif dan Supportif
+- **Objective:** Membantu teman yang sedang mengalami kesulitan memahami materi kuliah atau butuh tempat bercerita.
+- **Responsibility:** Memberikan ruang aman untuk berbicara, menawarkan sudut pandang yang objektif, dan tidak menghakimi.
+- **Repertoire:** Banyak mendengar, sesekali mengangguk/memberi gestur menyetujui, dan memberikan saran konstruktif hanya saat diminta.
+- **Risiko Komunikasi:** Terlalu cepat memberikan solusi rasional padahal teman tersebut sebenarnya hanya ingin didengarkan perasaannya (*emotional validation*).
+
+---
+
+### Contoh Perubahan Language Ketika Character Berubah
+
+> **Situasi:** Menghadapi masalah keterlambatan pengumpulan tugas kelompok.
+> 
+> * **Saat menggunakan Character "Ketua Kelompok":**
+>   * *Language & Action:* Mengirim pesan *chat* profesional dengan nada tegas namun konstruktif di grup WhatsApp: *"Halo teman-teman, terkait bagian modul X yang belum terkumpul, kita jadwalkan sync singkat jam 8 malam ini ya untuk melihat hambatannya di mana."*
+> * **Saat menggunakan Character "Teman Diskusi (Peer)":**
+>   * *Language & Action:* Mengubah gaya bahasa menjadi jauh lebih kasual dan empatik secara personal: *"Bro, aman nggak bagian kodingan lu? Kalau keteteran, bilang ya biar kita bisa cicil bareng-bareng atau gua bantuin debug."*
+
+---
+
+## Refleksi Mandiri
+
+Melalui pemetaan ini, saya menyadari bahwa komunikasi yang efektif bukan sekadar berbicara dengan gaya yang sama ke semua orang. Setiap *character* membutuhkan *repertoire* dan pilihan *language* yang berbeda agar *objective* dalam situasi tersebut tercapai tanpa menimbulkan salah paham.
+
+::: {.callout-note title="Deklarasi Penggunaan AI"}
+Saya menggunakan bantuan AI untuk merapikan struktur kalimat dan format markdown dari hasil analisis *character map* pribadi saya. Seluruh isi domain, peran, dan refleksi murni bersumber dari pengalaman dan konteks aktivitas saya sendiri.
 :::
-
-{{< include ../includes/evidence-template.md >}}
