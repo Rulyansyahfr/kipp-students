@@ -1,73 +1,70 @@
 ---
-title: "Character Map"
+title: "Lembar Kerja Bab 01 — Peta Karakter Komunikasi Pribadi"
 week: 1
 status: "Siap dinilai"
 self_score: "95"
 assessor_score: "—"
-description: "Evidence person, personality, character, objective, repertoire, language, action, dan relationship."
-categories: [Fondasi, Person]
+description: "Peta 5 domain kehidupan, analisis kontras dua peran, dan eksplorasi kepribadian serta sasaran pertumbuhan."
+categories: [Fondasi, Person, Lembar Kerja]
 ---
 
-## Kompetensi target
-
-Membedakan person, personality, dan character serta memilih objective, repertoire, dan language yang sesuai.
-
-## Evidence wajib
-
-Berikut adalah pemetaan *character* dari tiga domain kehidupan saya (akademik, organisasi/kepanitiaan, dan personal/keluarga):
-
-### 1. Domain Akademik: Mahasiswa / Praktikan Mata Kuliah
-- **Character:** Mahasiswa Analitis & Kolaboratif
-- **Objective:** Memahami konsep teknis sistem/teknologi dan menyelesaikan tugas kelompok secara efektif tanpa miskomunikasi.
-- **Responsibility:** Menyerap materi kuliah, aktif bertanya saat diskusi kelas, dan menyelesaikan bagian tugas pemrograman/analisis tepat waktu.
-- **Repertoire:** Menggunakan nada bicara yang sopan namun kritis, mengajukan pertanyaan berbasis argumen logis, dan menyimak aktif saat dosen atau rekan setim berbicara.
-- **Risiko Komunikasi:** Terlalu fokus pada aspek teknis/logika sehingga terkesan kaku atau kurang peka terhadap dinamika emosional anggota tim.
-
-### 2. Domain Akademik: Ketua Kelompok Tugas Besar / Project
-- **Character:** Project Coordinator / Fasilitator
-- **Objective:** Menyamakan visi anggota kelompok, membagi peran secara adil, dan memastikan progres proyek berjalan sesuai *timeline*.
-- **Responsibility:** Mengatur jadwal *progress tracking*, menengahi perbedaan pendapat antar anggota, dan memastikan kualitas hasil akhir.
-- **Repertoire:** Komunikasi asertif, memberikan apresiasi atas kontribusi anggota, menggunakan bahasa yang memotivasi, serta bersikap terbuka terhadap masukan.
-- **Risiko Komunikasi:** Terlihat terlalu mendikte (*micromanaging*) jika tenggat waktu sudah dekat dan stres meningkat.
-
-### 3. Domain Organisasi: Pengurus/Panitia Kegiatan Kampus (STEI)
-- **Character:** Perwakilan Hubungan Eksternal / Komunikator Acara
-- **Objective:** Menyampaikan informasi acara dengan jelas kepada peserta atau pihak eksternal serta menjaga citra positif organisasi.
-- **Responsibility:** Menyusun *broadcast* pesan, memandu koordinasi registrasi, dan merespons pertanyaan peserta dengan ramah.
-- **Repertoire:** Menggunakan nada yang ramah, profesional, menyapa dengan antusias, serta merespons pesan secara cepat dan solutif.
-- **Risiko Komunikasi:** Kehabisan energi sosial (*social battery*) yang berisiko membuat respon teks terkesan singkat atau dingin jika tidak dikelola dengan baik.
-
-### 4. Domain Personal/Keluarga: Anggota Keluarga di Rumah (Sebagai Adik/Kakak)
-- **Character:** Anggota Keluarga yang Santai dan Kooperatif
-- **Objective:** Menjaga keharmonisan rumah, meringankan beban di rumah, dan menjaga komunikasi yang hangat dengan anggota keluarga.
-- **Responsibility:** Membantu urusan rumah tangga saat senggang dan mendengarkan cerita keseharian keluarga.
-- **Repertoire:** Menggunakan bahasa sehari-hari yang santai, akrab, penuh canda, dan menggunakan nada bicara yang hangat.
-- **Risiko Komunikasi:** Terlalu santai atau terbawa suasana lelah kuliah sehingga kurang merespons obrolan keluarga dengan antusias.
-
-### 5. Domain Personal/Pengembangan Diri: Teman Diskusi / Peer Mentor
-- **Character:** Pendengar yang Objektif dan Supportif
-- **Objective:** Membantu teman yang sedang mengalami kesulitan memahami materi kuliah atau butuh tempat bercerita.
-- **Responsibility:** Memberikan ruang aman untuk berbicara, menawarkan sudut pandang yang objektif, dan tidak menghakimi.
-- **Repertoire:** Banyak mendengar, sesekali mengangguk/memberi gestur menyetujui, dan memberikan saran konstruktif hanya saat diminta.
-- **Risiko Komunikasi:** Terlalu cepat memberikan solusi rasional padahal teman tersebut sebenarnya hanya ingin didengarkan perasaannya (*emotional validation*).
+## Identitas Mahasiswa
+- **Nama Mahasiswa:** Rulyansyah Fajar Ramadhan
+- **NIM:** 18225025
+- **Program Studi:** Sistem dan Teknologi Informasi, Institut Teknologi Bandung
+- **Tanggal Pengerjaan:** 29 Agustus 2026
 
 ---
 
-### Contoh Perubahan Language Ketika Character Berubah
+## Bagian A: Peta 5 Domain Kehidupan
 
-> **Situasi:** Menghadapi masalah keterlambatan pengumpulan tugas kelompok.
-> 
-> * **Saat menggunakan Character "Ketua Kelompok":**
->   * *Language & Action:* Mengirim pesan *chat* profesional dengan nada tegas namun konstruktif di grup WhatsApp: *"Halo teman-teman, terkait bagian modul X yang belum terkumpul, kita jadwalkan sync singkat jam 8 malam ini ya untuk melihat hambatannya di mana."*
-> * **Saat menggunakan Character "Teman Diskusi (Peer)":**
->   * *Language & Action:* Mengubah gaya bahasa menjadi jauh lebih kasual dan empatik secara personal: *"Bro, aman nggak bagian kodingan lu? Kalau keteteran, bilang ya biar kita bisa cicil bareng-bareng atau gua bantuin debug."*
+| Domain Kehidupan | Peran yang Saya Ambil | Siapa yang Saya Jumpai | Tanggung Jawab Utama Komunikasi |
+|:-----------------|:-----------------|:-----------------|:-----------------|
+| **1. Diri Sendiri** | Mahasiswa & Praktisi *Self-Regulation* | Diri sendiri (batin, fokus, dan emosi) | Mengatur tingkat stres, menjaga motivasi belajar, dan merefleksikan target akademik harian. |
+| **2. Keluarga / Sahabat** | Anggota Keluarga / Teman Diskusi | Kakak, anggota keluarga di rumah, dan sahabat dekat | Menjaga kehangatan relasi, mendengarkan cerita keseharian, serta memberikan dukungan emosional yang tulus. |
+| **3. Profesional / Akademik** | Mahasiswa STEI / Ketua Kelompok Tugas | Dosen, asisten praktikum, dan rekan satu tim kuliah | Menyampaikan gagasan teknis secara logis, membagi tugas proyek secara adil, dan menyamakan visi kelompok. |
+| **4. Komunitas / Kelompok** | Panitia / Pengurus Kegiatan Kampus | Sesama mahasiswa, peserta acara, dan panitia lain | Menyampaikan informasi kepanitiaan dengan jelas, ramah, dan solutif bagi pihak yang bertanya. |
+| **5. Dunia / Publik** | Warga Digital & Kontributor Kolaborasi | Publik luas / pengguna platform digital (GitHub, forum) | Menulis dokumentasi kode yang rapi, menjaga etika berpendapat di ruang publik digital. |
 
 ---
 
-## Refleksi Mandiri
+## Bagian B: Analisis Kontras Dua Peran Utama
 
-Melalui pemetaan ini, saya menyadari bahwa komunikasi yang efektif bukan sekadar berbicara dengan gaya yang sama ke semua orang. Setiap *character* membutuhkan *repertoire* dan pilihan *language* yang berbeda agar *objective* dalam situasi tersebut tercapai tanpa menimbulkan salah paham.
+Berikut adalah perbandingan kontras antara **Peran A (Ketua Kelompok Tugas Besar)** dan **Peran B (Teman Pendengar / Sahabat)**:
 
-::: {.callout-note title="Deklarasi Penggunaan AI"}
-Saya menggunakan bantuan AI untuk merapikan struktur kalimat dan format markdown dari hasil analisis *character map* pribadi saya. Seluruh isi domain, peran, dan refleksi murni bersumber dari pengalaman dan konteks aktivitas saya sendiri.
-:::
+| Unsur Komunikasi | Peran A: Ketua Kelompok Tugas Besar | Peran B: Teman Pendengar / Sahabat |
+|:-----------------------|:-----------------------|:-----------------------|
+| **1. Tujuan Tugas & Relasi** | Memastikan target proyek selesai tepat waktu, kode/laporan valid, dan pembagian kerja adil. | Memberikan rasa aman, divalidasi perasaannya, dan membangun keintiman emosional jangka panjang. |
+| **2. Repertoar Utama** | Mengarahkan, menyusun *timeline*, menegur jika ada yang tertinggal, dan memimpin diskusi (*sync*). | Mendengarkan aktif (*active listening*), tidak menghakimi, dan menahan diri untuk langsung memberi solusi. |
+| **3. Pilihan Bahasa & Nada** | Profesional, tegas, terstruktur, menggunakan format *chat* atau rapat yang jelas (*to the point*). | Kasual, hangat, akrab, menggunakan bahasa sehari-hari yang santai dan penuh empati. |
+| **4. Respons yang Harus Dibaca** | Respon teks yang cepat, ekspresi kebingungan saat *coding/meeting*, atau ketepatan progres anggota. | Perubahan nada suara, ekspresi wajah, bahasa tubuh, serta emosi di balik cerita yang disampaikan. |
+| **5. Tindakan yang Diharapkan** | Anggota tim memahami tugasnya masing-masing dan progres tugas berjalan sesuai rencana. | Teman merasa didengar, bebannya berkurang, dan tercipta rasa saling percaya yang kuat. |
+| **6. Relasi yang Harus Dirawat** | Hubungan profesional akademik yang kolaboratif, saling menghargai batas kerja kelompok. | Hubungan personal yang awet, tulus, dan siap saling membantu di luar urusan kuliah. |
+
+---
+
+## Bagian C: Eksplorasi Kepribadian dan Sasaran Pertumbuhan
+
+1. **Nilai Utama:** 
+   - Nilai-nilai kemanusiaan yang paling ingin saya tampakkan dalam komunikasi sehari-hari adalah **kejujuran, penghargaan terhadap waktu orang lain, dan ketulusan mendengarkan**.
+
+2. **Kekuatan Komunikasi:** 
+   - Kekuatan yang saya miliki adalah kemampuan berpikir logis dan sistematis (khas anak ITB) yang membantu saya merangkum masalah rumit menjadi poin-poin solusi yang mudah dipahami kelompok.
+
+3. **Pola Hambatan Otomatis:** 
+   - Saat berada di bawah tekanan tenggat waktu (*deadline*) tugas yang padat, saya cenderung menjadi kaku, terburu-buru, dan langsung menuntut hasil tanpa memperhatikan kondisi emosional atau kelelahan anggota tim saya.
+
+4. **Ketegangan Peran & Kepribadian:** 
+   - *"Saya cenderung bersikap praktis dan ingin cepat selesai saat stres, tetapi peran saya sebagai Ketua Kelompok menuntut saya untuk sabar membimbing dan mendengarkan kendala teknis anggota tim yang sedang kesulitan."*
+
+5. **Sasaran Pertumbuhan Perilaku Terukur:** 
+   - *"Ketika ada anggota tim yang terlambat mengumpulkan tugas atau mengalami kendala, saya tidak akan langsung menegur dengan nada menuntut. Saya akan memulai percakapan dengan menanyakan kondisinya terlebih dahulu, mendengarkan hambatannya selama 2 menit pertama, baru kemudian bersama-sama mencari solusi penjadwalan ulang."*
+
+6. **Umpan Balik Jujur:** 
+   - Orang terdekat yang saya mintai tolong untuk memantau perilaku ini adalah kakak saya di rumah serta rekan kelompok kuliah terdekat.
+
+---
+
+## Refleksi Pembelajaran Bab 01
+
+Melalui penyusunan peta karakter ini, saya belajar bahwa komunikasi bukan sekadar mentransfer informasi atau kode program, melainkan jembatan antarmanusia. Mengenali perbedaan peran menyelamatkan saya dari sikap menyamaratakan cara berkomunikasi di setiap situasi.
