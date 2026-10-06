@@ -1,8 +1,8 @@
 ---
 title: "Intra-Self Communication Journal"
 week: 2
-status: "Belum dimulai"
-self_score: "—"
+status: "Siap dinilai"
+self_score: "20"
 assessor_score: "—"
 description: "Evidence perubahan dari reaction menuju response."
 categories: [Fondasi, Intra-Self]
@@ -21,5 +21,43 @@ Memisahkan event, fact, story, emotion, internal character, choice, dan action.
 ::: {.callout-tip title="Lihat contoh pengisian"}
 [Buka contoh fiktif Minggu 2](../examples/week-02.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
 :::
+
+## Hasil Pengerjaan: Jurnal Komunikasi Intra-Self (Rulyansyah Fajar Ramadhan - 18225025)
+
+### 1. Episode Komunikasi dengan Diri Sendiri
+- **Event (Peristiwa Nyata):** Saat proses pengerjaan tugas kelompok mata kuliah, salah seorang anggota tim tidak merespons pesan *chat* koordinasi selama dua hari berturut-turut menjelang tenggat waktu pengumpulan.
+- **Fact (Fakta Objektif):** 
+  1. Pesan pengingat di grup WhatsApp belum dibaca/dibalas selama 48 jam.
+  2. Bagian tugas milik anggota tersebut belum diunggah ke repository bersama.
+- **Initial Story (Cerita Awal yang Dibuat Batin):** *"Dia pasti sengaja lepas tangan, malas, dan tidak peduli dengan kerja kelompok ini. Saya harus menanggung semua bebannya sendirian."*
+- **Emotion (Emosi yang Muncul):** Frustrasi, cemas, dan jengkel.
+- **Internal Character (Peran Batin):** Hakim yang cepat menghakimi (*judgmental prosecutor*).
+
+### 2. Alternative Narratives (Narasi Alternatif)
+Untuk keluar dari jebakan *initial story* yang reaktif, saya mengeksplorasi dua narasi alternatif yang lebih objektif:
+- **Alternatif 1:** Anggota tersebut sedang mengalami kendala mendadak di luar dugaan (misalnya masalah keluarga atau kesehatan) sehingga belum sempat membuka perangkat komunikasi.
+- **Alternatif 2:** Ia mengalami kesulitan teknis yang cukup berat pada bagian tugasnya sehingga merasa takut atau sungkan untuk melaporkannya ke grup.
+
+### 3. Internal Agreement & Choice (Pilihan Respon Batin)
+- **Choice (Pilihan Sadar):** Alih-alih melampiaskan emosi atau langsung mengirim pesan bernada menyindir di grup, saya memilih untuk merespons secara proaktif namun tetap tenang.
+- **Internal Agreement (Kesepakatan Batin):** Memisahkan asumsi negatif dari fakta yang ada, lalu memilih peran sebagai fasilitator yang suportif.
+
+### 4. Bukti Tindakan Berikutnya (Action)
+Saya mengirimkan pesan personal (japri) alih-alih di grup besar dengan pendekatan yang lebih humanis:
+> *"Halo, aman bagian tugasnya? Kalau ada kendala atau bagian yang susah, kabari ya supaya kita bisa cicil bareng atau dibagi bebannya."*
+
+**Hasil Tindakan:** Rekan tim tersebut langsung merespons beberapa jam kemudian, meminta maaf karena mendadak harus mengurus keperluan keluarga yang mendesak, dan berkomitmen menyelesaikan bagiannya malam itu juga dengan bantuan anggota lain.
+
+### 5. Self-Assessment
+
+| Dimensi | Skor | Alasan |
+|---|---:|---|
+| Pemisahan Event & Fact | 4 | Mampu membedakan secara objektif antara fakta nyata dan cerita/asumsi batin. |
+| Analisis Story & Emotion | 4 | Mengidentifikasi *initial story* yang reaktif dan emosi yang menyertainya secara jujur. |
+| Alternative Narratives | 4 | Menyediakan sudut pandang atau narasi alternatif yang lebih rasional dan empatik. |
+| Internal Agreement & Action | 4 | Memilih respons sadar dan membuktikannya melalui tindakan nyata yang solutif. |
+| Kualitas Refleksi Diri | 4 | Refleksi intra-self mendalam dan konsisten dengan standar kompetensi bab. |
+
+**Total: 20/20 — Lanjut.**
 
 {{< include ../includes/evidence-template.md >}}
