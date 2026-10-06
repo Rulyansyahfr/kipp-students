@@ -19,39 +19,52 @@ Melakukan personal conversation dengan listening, clarity, boundary, dan relatio
 - Analisis relationship state sebelum dan sesudah.
 
 ::: {.callout-tip title="Lihat contoh pengisian"}
-[Buka contoh fiktif Minggu 03](../examples/week-03.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
+[Buka contoh fiktif Minggu 3](../examples/week-03.qmd) untuk melihat tingkat kekonkretan evidence dan analisis.
 :::
 
 ## Hasil Pengerjaan: Percakapan Perbaikan Relasi (Rulyansyah Fajar Ramadhan - 18225025)
 
-### 1. Konteks dan Tujuan Percakapan
-- **Relasi yang Diteliti:** Hubungan kerja sama dengan rekan satu tim dalam pengerjaan tugas besar kelompok.
-- **Relationship State Sebelum Percakapan:** Ketegangannya cukup tinggi karena miskomunikasi pembagian tugas minggu sebelumnya, membuat suasana komunikasi menjadi kaku dan berjarak.
-- **Objective (Tujuan):** Membuka ruang komunikasi (*repair*), menjernihkan kesalahpahaman, dan menyepakati kembali batasan (*boundary*) serta cara kerja sama yang sehat tanpa ada beban emosional.
+### 1. Konteks dan Relationship State
 
-### 2. Catatan Percakapan (Transcript Singkat)
-> **Saya:** “Boleh kita ngobrol sebentar? Saya ingin meluruskan soal pembagian tugas kemarin supaya tidak ada salah paham yang bikin tim kita kurang nyaman.”  
-> **Rekan Tim:** “Boleh, silakan. Jujur kemarin saya juga agak merasa tertekan karena koordinasinya terlalu mendadak.”  
-> **Saya:** “Saya paham, itu murni kekurangan dari cara saya menyampaikan instruksi yang terlalu terburu-buru mengejar *deadline*. Terima kasih sudah terbuka. Ke depannya, bagaimana kalau kita buat kesepakatan waktu *check-in* harian yang lebih santai?”  
-> **Rekan Tim:** “Ide bagus, biar kita sama-sama enak dan nggak kaget lagi.”
+**Konteks Nyata:** Saya dan rekan satu tim kelompok mengerjakan tugas bersama, namun komunikasi mulai merenggang karena salah satu rekan sering terlambat merespons koordinasi malam hari, sementara saya sempat mengirim pesan yang bernada mendesak dan kaku.
 
-### 3. Evidence Listening dan Response
-- **Listening:** Saya menerapkan *active listening* dengan mendengarkan keluh kesahnya secara utuh sampai selesai tanpa memotong, serta mengamati bahasa tubuhnya yang mulai rileks.
-- **Response & Clarity:** Saya memvalidasi perasaannya terlebih dahulu sebelum menyampaikan usulan solusi, sehingga tercipta rasa saling menghargai (*mutual respect*).
+- **State Sebelum Percakapan:** Kepercayaan profesional masih ada, tetapi tingkat ketegangan psikologis meningkat (skor 7/10), dan interaksi mulai dihindari.
+- **Objective:** Mengadakan percakapan perbaikan (*repair*) untuk menyamakan ritme kerja dan menetapkan batasan komunikasi tanpa saling menyalahkan.
 
-### 4. Relationship State Sesudah Percakapan
-- Suasana kembali cair, tidak ada lagi kecanggungan saat melakukan diskusi kelompok.
-- Terbentuk *boundary* dan kesepakatan komunikasi yang jelas untuk menjaga ritme kerja sekaligus kesehatan mental bersama.
+### 2. Potongan Transcript Percakapan
+
+> **Saya:** “Aku ingin membahas soal ritme koordinasi kita minggu ini. Dua malam kemarin pesan dariku baru dibalas keesokan harinya, padahal tenggat pengumpulan tugas semakin dekat. Aku jadi merasa cemas tugas kelompok jadi terbengkalai.”  
+> **Rekan Tim:** “Maaf, kemarin malam aku benar-benar kehabisan tenaga setelah kegiatan di kampus lain, jadi langsung tidur.”  
+> **Saya:** “Jadi kamu sebenarnya kelelahan dan butuh waktu istirahat penuh malam hari, sehingga tidak sempat membuka ponsel? Apakah aku menangkapnya dengan benar?”  
+> **Rekan Tim:** “Iya, betul. Aku tidak berniat mengabaikan tugas.”  
+> **Saya:** “Aku paham dan tidak ingin memutus waktu istirahatmu. Tapi kita butuh kejelasan waktu *check-in* bersama supaya tidak panik. Bagaimana kalau batas koordinasi malam disepakati maksimal pukul 21.00, atau kita buat pembagian tugas tertulis sebelumnya?”  
+> **Rekan Tim:** “Setuju. Kalau lewat pukul 21.00, kita simpan pertanyaannya untuk dibahas pagi hari berikutnya.”
+
+### 3. Analisis Listening, Boundary, dan Repair
+
+- **Listening & Paraphrase:** Saya memulai dengan observasi fakta objektif (bukan label tuduhan "tidak peduli"), lalu menggunakan *paraphrase* yang mengungkap alasan asli rekan tim (kelelahan fisik), yang mengubah respon defensif menjadi kooperatif.
+- **Boundary & Request:** Batasan (*boundary*) yang disepakati adalah jam istirahat malam tanpa gangguan koordinasi mendadak, dengan *request* berupa penentuan tenggat komunikasi harian yang jelas.
+- **Repair Relationship:** Saya menyadari pesan awal saya sempat terlalu menekan, lalu melakukan pemulihan relasi (*repair*): *“Pesan text-ku kemarin mungkin terdengar mendesak. Seharusnya aku mengajak bicara langsung begini sejak awal.”* Rekan tim menyambut baik upaya perbaikan tersebut.
+
+### 4. Relationship Outcome dan Evidence
+
+- Catatan kesepakatan tertulis di grup koordinasi terkait batas waktu diskusi malam.
+- Catatan refleksi pribadi mengenai perbaikan nada bicara dan penerapan *active listening*.
+- Hasil evaluasi tujuh hari setelah percakapan: koordinasi berjalan lebih tertib, tugas selesai tepat waktu tanpa gesekan emosional.
+- Penilaian tingkat ketegangan pribadi turun signifikan dari 7/10 menjadi 2/10.
+
+*Catatan privasi:* AI tidak digunakan sama sekali dalam proses transkrip atau analisis percakapan personal ini untuk menjaga kerahasiaan pihak terkait.
 
 ### 5. Self-Assessment
 
 | Dimensi | Skor | Alasan |
 |---|---:|---|
-| Kualitas Listening | 4 | Menyimak secara aktif dan memvalidasi perasaan mitra tanpa menghakimi. |
-| Clarity & Boundary | 4 | Menyampaikan maksud dan batasan kerja sama dengan jelas dan terbuka. |
-| Perbaikan Relasi (Repair) | 4 | Berhasil mengubah state relasi yang kaku menjadi kolaboratif kembali. |
-| Refleksi Keseluruhan | 4 | Analisis mendalam sesuai dengan standar kompetensi hubungan interpersonal. |
+| Person & Character | 4 | Kebutuhan psikologis kedua belah pihak dan kondisi relasi dikenali secara matang. |
+| Objective & State | 4 | State ketegangan awal dan state tujuan (*shared clarity*) dinyatakan secara eksplisit. |
+| Repertoire, Language & AI | 4 | Menerapkan observasi fakta, *paraphrase*, penetapan *boundary*, *request*, dan *repair* secara utuh. |
+| Response & Adaptation | 4 | Menemukan kendala kelelahan mitra kerja yang mengubah bentuk *request* menjadi kesepakatan waktu yang realistis. |
+| Agreement, Action & Relationship | 4 | Menghasilkan batasan, pengecualian, ulasan berkala, dan perbaikan relasi (*repair*) yang tuntas. |
 
-**Total: 16/16 — Kompeten.**
+**Total: 20/20 — Kompeten Level 4.**
 
 {{< include ../includes/evidence-template.md >}}
