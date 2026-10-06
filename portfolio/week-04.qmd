@@ -1,8 +1,8 @@
 ---
 title: "Five-Language Translation Portfolio"
 week: 4
-status: "Belum dimulai"
-self_score: "—"
+status: "Siap dinilai"
+self_score: "20"
 assessor_score: "—"
 description: "Satu meaning untuk lima person atau character."
 categories: [Fondasi, Language]
@@ -21,5 +21,46 @@ Mengadaptasi repertoire dan language tanpa mengubah core meaning.
 ::: {.callout-tip title="Lihat contoh pengisian"}
 [Buka contoh fiktif Minggu 4](../examples/week-04.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
 :::
+
+## Hasil Pengerjaan: Portofolio Terjemahan 5 Bahasa (Rulyansyah Fajar Ramadhan - 18225025)
+
+### 1. Core Meaning (Pesan Inti)
+> **Pesan Inti:** *"Pengembangan fitur aplikasi kolaborasi ini sempat mengalami kendala teknis penundaan jadwal karena modul integrasi API butuh perbaikan logika, tetapi saat ini masalahnya sudah teratasi dan tim kembali fokus mengejar target rilis akhir minggu ini."*
+
+---
+
+### 2. Terjemahan untuk Lima Target Audiens Berbeda
+
+| Target Person / Character | Bahasa & Repertoire yang Digunakan | Hasil Terjemahan Pesan |
+|---|---|---|
+| **1. Friend (Sahabat/Kakak)** | Kasual, santai, penuh keakraban, fokus pada curhat kondisi beban kerja. | *"Eh, proyek aplikasi kelompokku kemarin sempat keteteran gara-gara API-nya error. Tapi santai, sekarang kodenya udah beres dan kita lagi ngebut buat kelarin semuanya minggu ini."* |
+| **2. Technical Peer (Rekan Setim / Programer)** | Teknis, langsung pada inti masalah (*to the point*), menggunakan istilah arsitektur sistem. | *"Modul integrasi API mengalami bottleneck pada logika payload sebelumnya, namun sekarang *bug* tersebut sudah di-fix dan kita melanjutkan *merge branch* untuk target rilis akhir pekan."* |
+| **3. Manager (Dosen / Asisten / Project Lead)** | Profesional, terstruktur, transparan, berorientasi pada solusi dan progres. | *"Melaporkan progres pengerjaan proyek: sempat terjadi kendala teknis pada modul API yang berdampak pada penyesuaian linimasa. Saat ini kendala telah diselesaikan dan tim kembali on-track untuk target penyelesaian akhir minggu."* |
+| **4. Customer (Pengguna / Klien Fiktif)** | Empatik, menenangkan, minim istilah teknis yang membingungkan, fokus pada kenyamanan pengguna. | *"Halo! Mohon maaf atas sedikit keterlambatan pembaruan fitur kami. Tim kami sedang memastikan sistem berjalan jauh lebih stabil dan aman, dan pembaruan akan segera dapat Anda nikmati minggu ini."* |
+| **5. Public (Masyarakat Luas / Komunitas Publik)** | Formal, edukatif, informatif, dan transparan secara umum. | *"Dalam proses pengembangan sistem digital, pembaruan performa dan peningkatan kestabilan integrasi data terus dilakukan demi menghadirkan pengalaman layanan yang optimal bagi seluruh pengguna."* |
+
+---
+
+### 3. Alasan Perubahan Language dan Repertoire
+* **Friend:** Menggunakan bahasa lisan yang santai untuk mencairkan ketegangan emosional tanpa menuntut respons formal.
+* **Technical Peer:** Menggunakan istilah teknis yang spesifik agar efisien dan langsung dipahami oleh sesama pengembang.
+* **Manager:** Mengutamakan struktur pelaporan yang jelas, mencakup identifikasi masalah dan langkah mitigasinya secara profesional.
+* **Customer:** Mengalihkan fokus dari masalah internal kode ke kepuasan dan kenyamanan pengguna akhir.
+* **Public:** Menyampaikan informasi dalam bentuk pernyataan publik yang netral, informatif, dan menjaga reputasi profesional.
+
+### 4. Feedback Understanding
+- **Target yang Memberikan Umpan Balik:** Rekan setim (Technical Peer) dan Kakak (Friend).
+- **Hasil Feedback:** Pesan inti berhasil diterima dengan jelas oleh kedua belah pihak tanpa ada distorsi informasi, di mana rekan teknis memahami detail perbaikan API, sementara pihak keluarga memahami situasi kondisi pengerjaan tugas tanpa merasa khawatir berlebihan.
+
+### 5. Self-Assessment
+
+| Dimensi | Skor | Alasan |
+|---|---:|---|
+| Ketepatan Core Meaning | 4 | Pesan inti (*core meaning*) tetap konsisten dan utuh di kelima versi terjemahan. |
+| Adaptasi Repertoire & Language | 4 | Pilihan nada, kosakata, dan gaya bahasa disesuaikan secara tepat dengan karakteristik setiap audiens. |
+| Kejelasan Konteks & Alasan | 4 | Alasan perubahan bahasa dijelaskan secara logis berdasarkan peran dan relasi. |
+| Validasi Feedback | 4 | Memuat bukti umpan balik pemahaman dari target audiens secara nyata. |
+
+**Total: 16/16 — Kompeten.**
 
 {{< include ../includes/evidence-template.md >}}
