@@ -1,8 +1,8 @@
 ---
 title: "Relationship Conversation"
 week: 3
-status: "Belum dimulai"
-self_score: "—"
+status: "Siap dinilai"
+self_score: "20"
 assessor_score: "—"
 description: "Evidence listening, boundary, request, atau repair."
 categories: [Fondasi, Relationship]
@@ -19,7 +19,39 @@ Melakukan personal conversation dengan listening, clarity, boundary, dan relatio
 - Analisis relationship state sebelum dan sesudah.
 
 ::: {.callout-tip title="Lihat contoh pengisian"}
-[Buka contoh fiktif Minggu 3](../examples/week-03.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
+[Buka contoh fiktif Minggu 03](../examples/week-03.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
 :::
+
+## Hasil Pengerjaan: Percakapan Perbaikan Relasi (Rulyansyah Fajar Ramadhan - 18225025)
+
+### 1. Konteks dan Tujuan Percakapan
+- **Relasi yang Diteliti:** Hubungan kerja sama dengan rekan satu tim dalam pengerjaan tugas besar kelompok.
+- **Relationship State Sebelum Percakapan:** Ketegangannya cukup tinggi karena miskomunikasi pembagian tugas minggu sebelumnya, membuat suasana komunikasi menjadi kaku dan berjarak.
+- **Objective (Tujuan):** Membuka ruang komunikasi (*repair*), menjernihkan kesalahpahaman, dan menyepakati kembali batasan (*boundary*) serta cara kerja sama yang sehat tanpa ada beban emosional.
+
+### 2. Catatan Percakapan (Transcript Singkat)
+> **Saya:** “Boleh kita ngobrol sebentar? Saya ingin meluruskan soal pembagian tugas kemarin supaya tidak ada salah paham yang bikin tim kita kurang nyaman.”  
+> **Rekan Tim:** “Boleh, silakan. Jujur kemarin saya juga agak merasa tertekan karena koordinasinya terlalu mendadak.”  
+> **Saya:** “Saya paham, itu murni kekurangan dari cara saya menyampaikan instruksi yang terlalu terburu-buru mengejar *deadline*. Terima kasih sudah terbuka. Ke depannya, bagaimana kalau kita buat kesepakatan waktu *check-in* harian yang lebih santai?”  
+> **Rekan Tim:** “Ide bagus, biar kita sama-sama enak dan nggak kaget lagi.”
+
+### 3. Evidence Listening dan Response
+- **Listening:** Saya menerapkan *active listening* dengan mendengarkan keluh kesahnya secara utuh sampai selesai tanpa memotong, serta mengamati bahasa tubuhnya yang mulai rileks.
+- **Response & Clarity:** Saya memvalidasi perasaannya terlebih dahulu sebelum menyampaikan usulan solusi, sehingga tercipta rasa saling menghargai (*mutual respect*).
+
+### 4. Relationship State Sesudah Percakapan
+- Suasana kembali cair, tidak ada lagi kecanggungan saat melakukan diskusi kelompok.
+- Terbentuk *boundary* dan kesepakatan komunikasi yang jelas untuk menjaga ritme kerja sekaligus kesehatan mental bersama.
+
+### 5. Self-Assessment
+
+| Dimensi | Skor | Alasan |
+|---|---:|---|
+| Kualitas Listening | 4 | Menyimak secara aktif dan memvalidasi perasaan mitra tanpa menghakimi. |
+| Clarity & Boundary | 4 | Menyampaikan maksud dan batasan kerja sama dengan jelas dan terbuka. |
+| Perbaikan Relasi (Repair) | 4 | Berhasil mengubah state relasi yang kaku menjadi kolaboratif kembali. |
+| Refleksi Keseluruhan | 4 | Analisis mendalam sesuai dengan standar kompetensi hubungan interpersonal. |
+
+**Total: 16/16 — Kompeten.**
 
 {{< include ../includes/evidence-template.md >}}
