@@ -1,0 +1,143 @@
+---
+title: "Laporan UTS KIPP 2026 — Versi 2.0"
+subtitle: "Sesi 2b — Kasus 2"
+lang: id
+format:
+  html:
+    toc: true
+execute:
+  eval: false
+---
+
+# A) Identitas
+
+| Elemen | Keterangan |
+|---|---|
+| Nama mahasiswa | Rulyansyah Fajar Ramadhan |
+| NIM | 18225025 |
+| Kelas dan tanggal | II2100; 15 Oktober 2026 |
+| Nomor/judul kasus | Sesi 2b; Kasus 2 — pembagian tugas, otonomi, dan kerja sama kelompok |
+| Nama target | Dimas |
+| Modalitas | Teks; percakapan berlangsung melalui teks |
+| Kasus nyata/fiktif | Simulasi fiktif; respons mahasiswa menunjukkan pendekatan yang akan digunakan dalam situasi serupa |
+| Kelengkapan transkrip | Laporan merangkum rangkaian percakapan dan memuat bagian-bagian kunci yang tersedia dalam konteks sesi. Ini bukan transkrip verbatim lengkap dari setiap giliran awal. |
+
+# B) Kasus dan Tujuan
+
+## Kasus dan tujuan tindakan
+
+Skenario berlangsung ketika tugas kelompok harus dikumpulkan dalam 48 jam. Dimas khawatir pembagian tugas tidak memperhitungkan tingkat kesulitan, waktu, dan ketergantungan antara *data cleaning* dan analisis. Ia ingin tetap bertanggung jawab atas analisis, tetapi tidak ingin terus-menerus dialihkan untuk membantu anggota lain. Ia juga khawatir pembagian kerja dan perubahan cakupan dilakukan secara sepihak.
+
+Tujuan mahasiswa adalah mengklarifikasi persepsi ketidakadilan, menyepakati pembagian kerja realistis, menjaga hubungan dan otonomi Dimas, serta membuat mekanisme bantuan dan evaluasi yang terukur. Pendekatan yang berkembang selama sesi meliputi estimasi waktu berbentuk rentang dengan risiko, peringatan dini, *checkpoint*, *Minimum Viable Data*, aturan *scope reduction*, dokumentasi keterbatasan, dan pendekatan “*coaching, not doing*”.
+
+Indikator keberhasilan yang diusulkan:
+- Dimas memiliki waktu fokus untuk analisis dan target analisis tetap realistis.
+- Anggota lain dapat melakukan *cleaning* secara mandiri dengan template dan pengecekan sampel.
+- Perubahan cakupan didokumentasikan secara akademik dan dikomunikasikan dengan melibatkan anggota.
+- Hasil evaluasi dicatat sebagai *Group Playbook* dan digunakan dalam tugas berikutnya.
+
+Keberhasilan tersebut merupakan target yang dirancang dalam simulasi, bukan hasil yang telah diverifikasi pada tugas nyata.
+
+## Profil awal mahasiswa dan target
+
+| Unsur | Mahasiswa | Dimas |
+|---|---|---|
+| Attitude | Berusaha menyelesaikan konflik secara kolaboratif dan menjaga hubungan, tetapi cenderung membuat mekanisme yang sangat rinci. | Awalnya skeptis dan defensif; mengutamakan keadilan beban kerja, otonomi, dan alasan yang jelas. |
+| Knowledge | Menunjukkan pemahaman tentang pembagian kerja, *timeboxing*, *checkpoint*, batas cakupan, kualitas data, dan dokumentasi keterbatasan. | Memiliki perhatian kuat pada ketergantungan *data cleaning* dan analisis serta risiko bias dari variabel penting. |
+| Skill | Mampu memecah masalah menjadi tindakan, menetapkan batas bantuan, mengundang masukan, dan merancang evaluasi. Perlu menghindari *over-engineering* dan keputusan satu arah. | Dapat mengidentifikasi risiko teknis dan meminta kriteria yang jelas; membutuhkan waktu fokus dan batas tanggung jawab yang disepakati. |
+| Preferensi yang terlihat | Menyukai rencana konkret, indikator terukur, dan aturan kerja yang jelas. | Menghargai argumen berbasis alasan, otonomi, kriteria keberhasilan, dan penghormatan terhadap pendapatnya. |
+| Tingkat kepastian | Interpretasi berdasarkan respons dalam simulasi, bukan sifat menetap atau diagnosis. | Profil target merupakan konfigurasi karakter simulasi yang diungkapkan setelah interaksi. |
+
+## Rencana pendekatan
+
+| Tahap | Rencana | Bukti yang diharapkan |
+|---|---|---|
+| Attention | Dengarkan keberatan Dimas dan validasi kekhawatirannya tanpa langsung membela pembagian tugas. | Dimas bersedia menjelaskan keberatannya secara lebih spesifik. |
+| Interest | Urai tugas berdasarkan waktu, kesulitan, dependensi data, dan risiko keterlambatan. | Ada gambaran konkret tentang hambatan dan kebutuhan analisis. |
+| Desire | Beri Dimas kepemimpinan teknis dan batas bantuan yang jelas, sambil menyediakan dukungan yang tidak mengambil alih analisisnya. | Dimas menerima rencana karena otonomi dan beban kerjanya diperhatikan. |
+| Action | Tetapkan template, uji sampel, *checkpoint* 12/24 jam, aturan eskalasi, dokumentasi *scope reduction*, dan evaluasi pascatugas. | Tim memiliki langkah yang bisa dijalankan dan indikator evaluasi yang terukur. |
+
+# C) Ringkasan Percakapan
+
+**Catatan:** Bagian ini merupakan ringkasan terstruktur dari rangkaian interaksi sesi, bukan rekonstruksi verbatim lengkap. Kutipan yang diberi tanda kutip adalah frasa kunci yang muncul dalam konteks percakapan.
+
+## Klarifikasi dan perencanaan kerja
+
+1. Dimas menantang dasar pendekatan yang diusulkan dan meminta beban dinilai berdasarkan kesulitan serta waktu, bukan jumlah item. Ia menyoroti bahwa analisis bergantung pada kesiapan data dan ingin bekerja mandiri.
+2. Mahasiswa mengusulkan penguraian komponen tugas dengan estimasi waktu, penetapan *Minimum Viable Data*, dan pembagian *cleaning* secara paralel.
+3. Dimas mengingatkan bahwa estimasi bisa subjektif dan meminta cara yang adil jika waktu terlampaui. Mahasiswa menyarankan rentang estimasi beserta risiko, peringatan saat lebih dari 50% waktu habis tanpa kemajuan, serta tanggung jawab bersama untuk mengurangi cakupan bila terjadi keterlambatan.
+4. Untuk menjaga otonomi, mahasiswa mengusulkan Dimas tetap menjadi pemimpin dan pengambil keputusan analisis; bantuan diberikan saat diminta. Rencana awal: anggota lain melakukan *cleaning* pada 12 jam pertama, Dimas menganalisis pada jam 12–36, *checkpoint* di jam ke-24, lalu integrasi dan peninjauan pada 12 jam terakhir.
+5. Karena data mungkin belum siap pada jam ke-12, mahasiswa menawarkan mengambil alih atau membagi ulang pekerjaan *cleaning*, mengurangi cakupan, dan mencatat keterbatasan. Dimas tetap memiliki hak menyatakan apakah data layak digunakan.
+6. Untuk konsistensi format, mahasiswa menyarankan Dimas membuat *data dictionary/template*, anggota melakukan *self-check*, dan melakukan uji awal pada lima baris.
+7. Untuk kasus data bermasalah, mahasiswa mengusulkan aturan bertingkat berdasarkan proporsi masalah: kurang dari 10% dapat dilanjutkan dengan pengecualian baris, 10–30% diperbaiki cepat, dan lebih dari 30% memicu pengurangan cakupan. Setelah Dimas mengingatkan bahwa variabel penting bisa menimbulkan bias walaupun proporsinya kecil, mahasiswa menyetujui bahwa tingkat kepentingan variabel juga harus dipertimbangkan.
+8. Dimas meminta batas waktu bantuan yang tegas. Mahasiswa menyatakan Dimas tidak perlu ikut mengerjakan *cleaning* setelah template selesai; pada *checkpoint* 12 jam, anggota lain dan mahasiswa menangani sisa pekerjaan agar Dimas tetap fokus pada analisis.
+9. Kriteria *Minimum Viable Data* dibahas: kelengkapan variabel inti, sekitar 70–80% sampel yang dapat digunakan, dan kesesuaian format dengan template. Dimas memiliki hak veto terhadap kelayakan data; jika belum sesuai, tim mengevaluasi selama 15 menit, lalu memilih pengurangan cakupan atau *cleaning* darurat terbatas.
+10. Untuk menjaga pertanggungjawaban akademik, perubahan cakupan harus mencatat variabel dan sampel awal, alasan teknis, dampak pada analisis, dan batas klaim di bagian metode/keterbatasan. Dimas memimpin penjelasan dampak teknis, sementara mahasiswa membantu penulisan dan integrasi laporan.
+11. Mahasiswa sempat mengusulkan pengumuman keputusan satu arah agar cepat. Dimas menunjukkan bahwa hal itu dapat membuat anggota lain merasa kontribusinya tidak dihargai. Mahasiswa lalu merevisi rencana menjadi penyampaian konteks dan apresiasi, diikuti lima menit untuk masukan sebelum keputusan difinalkan.
+12. Evaluasi pascatugas dirancang menggunakan indikator ketepatan tenggat, mutu dan transparansi analisis, keadilan beban kerja, serta peringatan dini. Mahasiswa mengusulkan retrospektif *KISS* (*Keep, Improve, Stop*) dan memberi umpan balik yang berfokus pada proses.
+13. Ketika diminta mengevaluasi Dimas, mahasiswa mengakui sikap transparan, orientasi kualitas, dan keterbukaannya. Area perbaikan yang disebut adalah memberi peringatan lebih awal dan tidak terlalu lama memikirkan skenario terburuk.
+
+## Uji ulang
+
+Dalam uji ulang, Dimas telah menyelesaikan template, tetapi anggota lain meminta bantuan karena masih kesulitan melakukan *cleaning*. Bantuan tambahan dapat mengurangi waktu analisis Dimas dan bertentangan dengan batas yang disepakati.
+
+Mahasiswa mengusulkan pendekatan “*coaching, not doing*”: konsultasi singkat selama 10 menit untuk menjelaskan template, sementara mahasiswa membantu anggota tersebut mengerjakan *cleaning*. Dimas dapat langsung kembali ke analisis.
+
+Dimas menyetujui pendekatan itu, tetapi menekankan bahwa tiga baris yang benar belum menjamin semua kasus data dapat ditangani. Mahasiswa mengusulkan:
+1. anggota mempraktikkan tiga baris pertama secara langsung melalui *screen share* atau tangkapan layar;
+2. Dimas memberi konfirmasi *yes/no* dalam satu menit;
+3. setelah sampel lolos, anggota melanjutkan sendiri; kasus di luar template harus ditandai (*flagging*) dan diklarifikasi sebelum diubah.
+
+Dimas menerima usulan tersebut dengan catatan bahwa kasus yang tidak tercakup template harus ditandai agar tidak menimbulkan kesalahan diam-diam.
+
+Mahasiswa kemudian menetapkan tiga indikator evaluasi: tidak ada interupsi tak terencana sampai *checkpoint*, draft analisis selesai sesuai estimasi, serta hasil *cleaning* konsisten dan kasus khusus ditandai dengan jelas. Dimas menilai penyelesaian analisis tepat waktu sebagai indikator hasil paling krusial, sementara konsistensi data menjadi faktor pendukungnya.
+
+Untuk memastikan evaluasi digunakan pada tugas berikutnya, mahasiswa mengusulkan *Group Playbook* satu halaman, checklist pembagian tugas di awal tugas baru, dan penyesuaian peran atau *buddy system* berdasarkan hasil evaluasi. Dimas menyetujui dengan catatan agar penyesuaian tetap berdasarkan kemampuan dan kesepakatan, bukan memberi label kepada anggota.
+
+## Refleksi akhir mahasiswa
+
+### Yang paling berhasil
+
+- **Mengakui keberatan dan melindungi otonomi.** Mahasiswa tidak bersikap defensif terhadap kekhawatiran Dimas, lalu memberi ruang keputusan teknis melalui hak veto/persetujuan dan batas bantuan “*coaching, not doing*”.
+- **Membuat solusi konkret dan terukur.** Diskusi beralih dari konflik tentang keadilan menuju rencana kerja, *timebox*, validasi sampel, *checkpoint*, dan aturan perubahan cakupan.
+
+### Yang perlu diperbaiki
+
+- **Kecenderungan *over-engineering*.** Terlalu banyak skenario dan mekanisme kontrol berisiko menghabiskan waktu yang seharusnya digunakan untuk mengerjakan tugas 48 jam.
+- **Komunikasi satu arah saat tertekan waktu.** Usulan pengumuman sepihak berisiko mengurangi rasa memiliki anggota lain. Mahasiswa memperbaikinya dengan menyediakan waktu singkat untuk masukan.
+
+### Pelajaran utama
+
+Gunakan pendekatan *agile* dengan satu atau dua *guardrails* yang jelas sejak awal, lalu bergerak ke tindakan nyata. Tidak semua skenario buruk perlu diatur secara terperinci sebelum pekerjaan dimulai; mekanisme tambahan dibuat berdasarkan risiko yang benar-benar muncul.
+
+# D) Analisis Perubahan AKS
+
+| Dimensi | Awal | Akhir | Indikator dalam simulasi |
+|---|---|---|---|
+| Attitude | Skeptis dan mempertanyakan dasar solusi. | Lebih kooperatif dan menghargai pendekatan yang melindungi otonomi serta membagi tanggung jawab secara jelas. | Dimas mengakui bahwa kekhawatirannya didengarkan dan solusi disusun bersama. |
+| Knowledge | Menekankan bahwa jumlah tugas bukan ukuran adil dan dependensi data dapat menghambat analisis. | Menyepakati pentingnya estimasi waktu, *early warning*, kriteria data, *scope reduction*, dan evaluasi proses. | Diskusi bergerak dari keberatan umum ke aturan operasional dan indikator evaluasi. |
+| Skill | Membutuhkan kejelasan tentang tanggung jawab dan waktu fokus. | Menyatakan kesiapan menjalankan template, memeriksa sampel, menandai kasus khusus, dan melakukan analisis secara mandiri. | Dimas menerima rencana *coaching, not doing* dan memberi masukan spesifik terhadap mekanisme kerja. |
+
+Perubahan di atas adalah perubahan yang tampak dalam simulasi teks. Perubahan perilaku pada tugas nyata belum diverifikasi.
+
+## Pesan yang membantu dan menghambat kepercayaan
+
+**Paling membantu:** pemberian hak persetujuan/veto atas kelayakan data dan penetapan Dimas sebagai pemimpin teknis analisis. Ini membuat Dimas tetap memiliki kendali atas kualitas analisis tanpa harus mengambil alih semua *cleaning*.
+
+**Paling menghambat:** usulan awal untuk mengumumkan keputusan secara satu arah. Dimas menilai cara tersebut berisiko membuat anggota lain merasa diabaikan. Mahasiswa kemudian memperbaikinya dengan menyediakan lima menit untuk masukan sebelum keputusan difinalkan.
+
+# E) Penilaian dan Catatan Kritis
+
+Kekuatan utama mahasiswa adalah kemampuan mengubah konflik interpersonal menjadi pembahasan tanggung jawab, waktu, risiko, dan kriteria mutu yang lebih konkret. Mahasiswa juga menunjukkan fleksibilitas dengan merevisi usulan komunikasi satu arah setelah mendapat keberatan.
+
+Area perbaikan utama adalah menyederhanakan mekanisme. Banyaknya batas waktu, persentase, dan aturan bertingkat dapat membantu dalam kondisi tertentu, tetapi berisiko terlalu rumit jika tidak sesuai dengan skala tugas. Dalam penerapan nyata, aturan perlu disepakati bersama dan disesuaikan dengan karakter data serta tuntutan tugas akademik. Angka seperti 10%, 30%, atau 70–80% dalam percakapan adalah usulan kerja untuk simulasi, bukan standar universal.
+
+# F) Kesimpulan
+
+Sesi ini memperlihatkan bahwa penyelesaian konflik pembagian tugas bukan hanya tentang membagi jumlah pekerjaan secara merata, tetapi juga memperhitungkan tingkat kesulitan, ketergantungan antarbagian, otonomi, dan risiko keterlambatan. Pendekatan yang paling produktif adalah mendengarkan keberatan, menyepakati batas tanggung jawab, membuat kriteria kerja yang cukup jelas, dan tetap melibatkan anggota dalam keputusan yang memengaruhi mereka.
+
+Pelajaran pribadi utama mahasiswa adalah menghindari *over-engineering*: mulai dengan beberapa *guardrails* yang disepakati, gunakan *checkpoint* untuk menilai keadaan, lalu sesuaikan langkah berdasarkan bukti yang muncul.
+
+---
+
+**Catatan integritas:** Laporan ini mendokumentasikan simulasi dan refleksi mahasiswa. Rencana, indikator, dan perubahan sikap karakter tidak boleh ditafsirkan sebagai bukti bahwa hasil yang sama pasti terjadi dalam kerja kelompok nyata.
