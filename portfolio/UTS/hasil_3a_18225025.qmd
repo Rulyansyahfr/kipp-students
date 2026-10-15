@@ -1,0 +1,210 @@
+---
+title: "Laporan UTS KIPP 2026 — Versi 2.0"
+subtitle: "Sesi 3a — Kasus 3"
+lang: id
+format:
+  html:
+    toc: true
+execute:
+  eval: false
+---
+
+# A) Identitas
+
+| Elemen | Keterangan |
+|---|---|
+| Nama mahasiswa | Rulyansyah Fajar Ramadhan |
+| NIM | 18225025 |
+| Kelas dan tanggal | II2100; 15 Oktober 2026 |
+| Nomor/judul kasus | Sesi 3a; Kasus 3 — customer TI/AI |
+| Nama dan ID target | Ali (K3-01) |
+| Versi bank/aturan penugasan | Bank 2.0; paket individual 2.0 |
+| Modalitas | Teks |
+| Kasus nyata/fiktif | Fiktif; simulasi percakapan dengan chatbot |
+| Kelengkapan transkrip | Parsial. Bagian awal dialog tidak seluruhnya tersedia sebagai kutipan verbatim pada konteks penyusunan laporan; bagian yang tidak tersedia tidak direka. Tahap akhir, evaluasi dan refleksi dicatat dari percakapan yang tersedia. |
+
+# B) Kasus dan Tujuan
+
+## Kasus dan tujuan tindakan
+
+Ali mengelola usaha yang menerima pertanyaan pelanggan berulang mengenai harga, stok, dan cara memesan. Ada risiko pesan pesanan terlewat ketika percakapan dirangkum. Ali belum yakin mampu menerapkan solusi TI/AI dan khawatir staf kesulitan, sistem memberikan informasi salah, atau alur kerja menjadi lebih rumit.
+
+Tujuan mahasiswa adalah menggali kekhawatiran Ali, menjelaskan pilihan dengan bahasa yang mudah dipahami, dan mengusulkan langkah awal yang rendah risiko. Solusi yang akhirnya disepakati dalam simulasi adalah uji internal menggunakan tiga template WhatsApp Business Quick Replies: pertanyaan harga, stok hampir habis, dan barang kosong. Staf tetap memeriksa dan mengirim balasan secara manual. Uji langsung di perangkat dan penerapan kepada pelanggan belum dilakukan dalam percakapan ini.
+
+Indikator keberhasilan percakapan: Ali dapat menjelaskan kekhawatiran dan kebutuhannya, memahami bahwa Quick Replies bukan integrasi stok otomatis, bersedia mencoba tes internal, dan memiliki prosedur sederhana untuk memelihara template. Kesediaan mencoba tidak dianggap sebagai bukti keberhasilan teknis.
+
+## Profil awal komunikator
+
+| Unsur | Laporan/dugaan awal | Bukti | Tingkat kepastian |
+|---|---|---|---|
+| SWOT subjektif | Mahasiswa melihat peluang pada FAQ dan pencatatan pesanan; ancaman berupa informasi keliru, ketidakcocokan teknis, serta staf yang enggan memakai sistem baru. | Dialog awal dan refleksi setelah simulasi; bagian awal tidak seluruhnya tersedia verbatim. | Interpretasi sementara |
+| Attitude | Ingin menawarkan solusi praktis dan membantu Ali merasa aman mencoba. | Rencana bertahap dan respons terhadap keberatan Ali. | Terlihat dalam simulasi |
+| Knowledge | Memahami gagasan FAQ, Quick Replies, fallback manusia, dan pilot; pada awalnya terlalu yakin mengenai biaya/kompatibilitas. | Mahasiswa mengakui klaim kompatibilitas dan biaya diberikan sebelum verifikasi. | Bukti dari percakapan dan refleksi |
+| Skill | Mampu menyusun prosedur dan contoh template; perlu lebih konsisten menguji asumsi teknis sebelum menjanjikan solusi. | Rencana uji tiga template dan refleksi akhir. | Interpretasi berdasarkan teks |
+| Preferensi/MBTI jika dilaporkan | Tidak ada laporan MBTI mahasiswa yang digunakan untuk menilai sesi ini. | — | Tidak dinilai |
+| Karakter, peran, kultur/ko-kultur | Mahasiswa berperan sebagai pendamping solusi TI/AI; perlu menjaga tanggung jawab usaha dan beban staf. | Usulan pemeriksaan manual, admin utama/pengganti, dan fallback. | Konteks simulasi |
+
+## Dugaan awal profil target dan rencana
+
+Dugaan awal: Ali melihat peluang dari solusi digital tetapi merasa belum mampu; ia memerlukan penjelasan konkret, demonstrasi kecil, dan pendampingan. Dugaan ini divalidasi melalui keberatan yang ia sampaikan selama dialog, bukan dianggap fakta psikologis tentang orang nyata.
+
+| TAIDA | Status awal/target | Edukasi A/K/S | Repertoar yang direncanakan | Bukti yang diharapkan |
+|---|---|---|---|---|
+| Target | Dari ragu menjadi bersedia menilai opsi uji coba tanpa dipaksa menyetujui implementasi. | A: mengakui kekhawatiran; K: jelaskan batas solusi; S: sepakati langkah awal. | Validasi, pertanyaan terbuka, pilihan bertahap. | Ali menyatakan syarat dan keputusan awalnya sendiri. |
+| Attention | Perlu melihat kaitan solusi dengan masalah usaha. | K: kaitkan fitur dengan FAQ dan stok. | Contoh pertanyaan harga/stok dan pesanan. | Ali terlibat membahas alur konkret. |
+| Interest | Ada minat tetapi disertai kekhawatiran risiko. | A: menghormati keraguan; K: bandingkan pilihan. | Pilot kecil, fallback manual. | Ali mengajukan pertanyaan lanjutan. |
+| Desire | Perlu yakin bahwa staf tetap memiliki kendali. | A: hormati pilihan; K: jelaskan draf tidak terkirim otomatis. | Quick Replies, pemeriksaan sebelum kirim, SOP sederhana. | Ali bersedia tes internal. |
+| Action | Belum ada pelaksanaan nyata. | S: demonstrasi dan latihan kecil diperlukan. | Tiga template untuk diuji internal. | Kesepakatan rencana dan indikator; hasil teknis tetap belum diketahui. |
+
+# C) Skrip Percakapan
+
+**Catatan transkrip:** Transkrip ini memuat bagian percakapan yang tersedia dan ringkasan eksplisit untuk segmen awal yang tidak lagi tersedia secara lengkap sebagai kutipan verbatim. Ringkasan tidak disajikan sebagai kutipan langsung. Nomor giliran dibuat untuk laporan dan bukan nomor resmi dari aplikasi.
+
+## Tahap identifikasi, eksplorasi, dan penawaran solusi
+
+**Ringkasan segmen awal yang tidak tersedia secara lengkap:** Ali menyampaikan keraguan untuk menerapkan solusi TI/AI. Masalah yang dibahas meliputi pertanyaan pelanggan berulang tentang harga, stok, dan cara memesan, serta risiko pesanan dari chat terlewat. Mahasiswa mengusulkan uji coba kecil dan menjelaskan pilihan Quick Replies dengan pengecekan manual. Dalam simulasi, contoh data produk yang dipakai untuk latihan adalah kopi Arabika 200 g Rp65.000 (tersedia), kopi Robusta 200 g Rp45.000 (tersedia), tumbler 500 ml Rp35.000 (stok 2), drip bag isi 5 Rp25.000 (habis), dan paket kopi+tumbler Rp90.000 (pre-order). Data ini adalah contoh simulasi, bukan data usaha nyata.
+
+Ali menyoroti bahwa contoh jawaban tersebut belum membuktikan sistem otomatis benar-benar terhubung ke Google Sheets. Ia meminta cara menguji koneksi sebenarnya. Mahasiswa lalu membahas pengujian internal, target akurasi dan penghematan waktu, serta opsi Quick Replies jika integrasi tidak sesuai. Mahasiswa mengakui sempat menyampaikan kepastian biaya gratis dan kompatibilitas sebelum memverifikasinya; Ali mengingatkan agar pilihan teknis tidak dipaksakan jika WhatsApp Business standar tidak mendukung integrasi yang diperlukan.
+
+## Tahap penetapan uji internal
+
+**AI001 — Ali:** “Saya setuju kita dengarkan masukan staf dulu dan mulai dari tes internal. Itu lebih masuk akal daripada langsung mengaktifkan sistem. Tapi saya kurang setuju kalau kesalahan sepenuhnya dianggap sebagai kendala sistem, karena pada akhirnya usaha saya yang bertanggung jawab kepada pelanggan. Saya ingin kita punya cara untuk mencegah kesalahan sebelum jawaban dikirim, bukan sekadar menentukan siapa yang disalahkan. Kalau kita mulai dari Quick Replies, apakah staf bisa memeriksa isi balasan sebelum mengirimnya? Saya lebih nyaman kalau mereka tetap punya kendali atas jawaban yang diterima pelanggan.”
+
+**U001 — Mahasiswa:** “Tentu bisa banget, Ali. Poin kamu soal tanggung jawab usaha itu sangat tepat, dan di sinilah keunggulan *Quick Replies*.
+
+Dengan *Quick Replies*, staf kamu pegang kendali 100%:
+
+1. **Staf tetap meninjau dan mengirim manual:** Saat ada chat masuk, staf mengetik garis miring (contoh: `/harga` atau `/stok`), lalu draf balasan muncul di kolom teks. Draf tersebut tidak langsung terkirim ke pelanggan.
+2. **Bisa diedit sebelum dikirim:** Staf bisa membaca ulang, mengecek kesesuaian data, atau menambahkan pesan personal sebelum mengirim.
+3. **Mencegah kesalahan total:** Karena ada proses pengecekan manusia (*human-in-the-loop*), risiko salah informasi ke pelanggan bisa ditekan sampai nol.
+
+Jadi nanti jam 9 pagi, kita langsung simulasikan alur *Quick Replies* ini di HP usahamu bersama staf...”
+
+**AI002 — Ali:** “Oke, kalau balasannya memang masih berupa draf yang harus diperiksa dan dikirim manual, saya lebih tenang. Staf juga tidak perlu takut pesan terkirim sendiri tanpa mereka sadari. Tapi kita jangan menganggap risikonya nol, ya. Bisa saja staf lupa memperbarui harga atau stok di balasan yang tersimpan. Jadi, saya ingin kita memastikan semua template menggunakan data terbaru dan ada yang bertanggung jawab memperbaruinya. Untuk tes jam 9 nanti, kita coba tiga hal saja: membuat Quick Replies untuk pertanyaan harga, mengecek stok yang hampir habis, dan menguji balasan ketika barang kosong. Kalau staf bisa menjalankannya tanpa kebingungan, baru kita pertimbangkan langkah berikutnya. Menurut kamu, siapa yang sebaiknya bertanggung jawab memperbarui template harga dan stok, dan bagaimana kita memastikan informasinya tetap akurat?”
+
+**U002 — Mahasiswa:** “Setuju banget, Ali. Risiko *human error* seperti lupa *update* templat itu memang nyata, jadi harus ada pembagian peran yang jelas.
+
+Menurut aku, pembagian penanggung jawab dan cara menjaga akurasi yang paling ideal adalah sebagai berikut:
+
+1. **Penanggung jawab utama (satu pintu):** Ali sendiri atau satu staf senior (admin utama) ditunjuk untuk memegang akses edit template. Staf operasional fokus menggunakan template.
+2. **Pemeriksaan rutin:** Pada awal shift, staf menyinkronkan data stok/harga fisik dengan template. Untuk stok yang cepat berubah atau hampir habis, template tidak mencantumkan angka pasti dan meminta staf mengecek fisik terlebih dahulu.
+
+Skenario tes 3 hal untuk jam 9 nanti sudah sangat pas dan fokus!”
+
+**AI003 — Ali:** “Oke, pembagian satu pintu masuk akal. Saya bisa menunjuk satu admin utama untuk mengedit template, sementara staf lain cukup menggunakannya. Untuk stok yang cepat berubah, saya juga setuju kalau staf harus mengecek dulu daripada asal memberikan angka. Tapi ada satu hal yang ingin saya pastikan. Kalau admin utama sedang libur atau lupa memperbarui template, bagaimana? Saya tidak ingin operasional ikut terganggu hanya karena satu orang tidak tersedia. Mungkin kita bisa menunjuk admin utama dan satu pengganti, lalu setiap perubahan harga atau stok penting langsung dicatat. Menurut kamu, apakah prosedur seperti itu cukup sederhana untuk diterapkan oleh staf, atau justru berisiko menambah pekerjaan mereka?”
+
+**U003 — Mahasiswa:** “Ide kamu menunjuk satu admin utama dan satu pengganti (*backup*) itu sudah sangat tepat dan realistis. Ini memang standar yang bagus supaya operasional tidak bergantung pada satu orang saja.
+
+Prosedur ini akan tetap sederhana dan tidak menambah beban staf, asalkan kita jaga agar alurnya tidak rumit:
+
+1. **Sistem pengganti:** Admin utama dan pengganti menggunakan akses ke akun/dashboard WhatsApp Business yang sama. Pengganti mengedit template saat admin utama libur atau berhalangan.
+2. **Catatan perubahan:** Jika ada perubahan harga atau stok penting, admin utama/pengganti mengirim pesan singkat di grup internal, misalnya “Templat Kopi Robusta baru disesuaikan ke Rp48.000”.
+3. **Fallback:** Jika kedua admin belum memperbarui template, staf menggunakan pesan umum untuk memastikan stok/harga dulu sambil mengecek data fisik.
+
+Dengan cara ini, kontrolnya tetap jelas tanpa perlu sistem keamanan yang rumit.”
+
+**AI004 — Ali:** “Baik, kita sudah punya alur yang cukup jelas untuk dicoba. Saya setuju kita mulai dari tiga template dan melakukan tes internal dulu sebelum digunakan untuk pelanggan. Saya juga akan memastikan staf tahu bahwa template hanya alat bantu, bukan pengganti pengecekan informasi. Kalau hasil tes menunjukkan masih ada kebingungan atau pekerjaan tambahan yang terlalu besar, kita evaluasi lagi sebelum melanjutkan. Terima kasih sudah membantu menyusun prosedurnya. Sampai ketemu jam 9 pagi!”
+
+**U004 — Mahasiswa:** “Sama-sama, Ali! Aku seneng banget kita bisa dapet titik temu dan alur yang bikin kamu maupun staf merasa aman dan nyaman. Sampai ketemu jam 9 pagi nanti ya! Aku bakal siap buat bantu jalani tes internalnya bareng kamu dan staf. Semangat buat persiapannya!”
+
+**AI005 — Ali:** “Siap, terima kasih juga! Saya jadi lebih tenang karena kita tidak langsung menerapkan sistem ke pelanggan sebelum memastikan semuanya berjalan dengan baik. Nanti saya ajak staf untuk ikut mencoba, supaya kita bisa tahu apakah prosedurnya benar-benar praktis untuk mereka. Sampai ketemu jam 9 pagi!”
+
+## Tahap evaluasi dan refleksi
+
+**U005 — Mahasiswa, evaluasi pesan yang membantu dan menghambat:**
+
+**Tindakan/pesan yang paling membantu:** menawarkan solusi bertahap (*pilot test* tiga template) dan mengakomodasi kekhawatiran Ali mengenai kendali serta alur kerja staf. Bukti yang dipilih mahasiswa adalah respons Ali: “Oke, menurut saya alurnya cukup fleksibel untuk dicoba... Tapi sebelum jam 9, saya ingin memastikan satu hal lagi. Kalau admin utama dan pengganti sama-sama bisa mengedit template, bagaimana kita mencegah perubahan yang tidak sengaja...” Mahasiswa menafsirkan respons tersebut sebagai tanda bahwa Ali merasa cukup aman untuk menyampaikan keraguan lanjutan.
+
+**Tindakan/pesan yang menghambat:** klaim bahwa risiko kesalahan bisa ditekan sampai nol dan janji kompatibilitas/biaya gratis sebelum verifikasi. Mahasiswa mengaitkannya dengan kebutuhan Ali untuk kembali menegaskan batas uji coba dan tanggung jawab usaha. Catatan: kutipan yang dipilih mahasiswa tentang respons akhir Ali menunjukkan kehati-hatian, tetapi tidak sendirinya membuktikan bahwa kepercayaan Ali menurun.
+
+**U006 — Mahasiswa, tiga perubahan jika mengulang percakapan:**
+
+1. **Memvalidasi kebutuhan teknis sebelum memberi klaim solusi.** Dilakukan pada tahap awal orientasi/eksplorasi agar Ali tidak menerima asumsi keliru tentang kompatibilitas atau biaya dan dapat menilai kelayakan secara objektif.
+2. **Menjelaskan mitigasi risiko secara realistis, bukan menjanjikan *zero error*.** Dilakukan saat menawarkan solusi agar Ali memahami teknologi sebagai alat bantu, bukan jaminan sempurna, serta dapat menyiapkan SOP verifikasi yang terukur.
+3. **Mengajukan *pilot test* bertahap sejak awal.** Dilakukan pada transisi dari eksplorasi masalah ke penawaran solusi agar Ali tidak membayangkan perubahan besar sekaligus dan dapat menilai solusi berdasarkan hasil tes internal.
+
+# D) Hasil, Evaluasi, dan Refleksi
+
+## Hasil tujuan dan perubahan SWOT/ASK
+
+Tujuan komunikasi tercapai sebagian besar: Ali bersedia mencoba tiga template melalui tes internal bersama staf dan belum diminta langsung mengaktifkan solusi kepada pelanggan. Tujuan teknis belum dapat dinyatakan tercapai karena pengujian langsung tidak terjadi dalam simulasi percakapan ini.
+
+| Unsur | Awal | Akhir | Bukti giliran | Jenis bukti dan batas |
+|---|---|---|---|---|
+| Kesimpulan SWOT | Peluang digital ada, tetapi Ali merasa belum yakin mampu; ancaman berupa staf kesulitan dan kesalahan informasi. | Ali melihat uji internal sebagai pilihan yang lebih aman, tetapi masih menuntut prosedur akurasi dan tanggung jawab. | AI001–AI005 | Perubahan dalam pemeranan chatbot; bukan pengukuran terhadap pemilik usaha nyata. |
+| Attitude | Ragu dan berhati-hati. | Lebih bersedia mencoba, tetap kritis. | AI001 dan AI004–AI005 | Sikap simulasi; kesediaan tidak berarti persetujuan implementasi penuh. |
+| Knowledge | Belum jelas memahami batas fitur, pemeliharaan template, dan kontrol staf. | Memahami bahwa template adalah alat bantu manual yang perlu diperbarui dan diverifikasi. | AI001–AI004 | Pemahaman konseptual dalam dialog; belum diuji dengan demonstrasi. |
+| Skill | Memerlukan demo dan latihan kecil. | Belum ada bukti peningkatan keterampilan nyata; rencana tes tiga template disepakati. | AI004–AI005 | Kesiapan bertindak dalam simulasi, bukan demonstrasi kemampuan. |
+
+## Evaluasi stimulus–respons dan diagnosis profil
+
+| Episode/ID | Estimasi status dan bukti | Stimulus mahasiswa | Respons | Perubahan ASK/SWOT | Adaptasi |
+|---|---|---|---|---|---|
+| Segmen awal (ringkasan) | Ali belum yakin mampu menjalankan solusi dan mempertanyakan kelayakan teknis. | Contoh FAQ, simulasi data, serta ide uji coba kecil. | Ali menyoroti bahwa simulasi belum membuktikan integrasi aktual. | Kebutuhan penjelasan batas teknis menjadi lebih jelas. | Perlu memisahkan simulasi contoh dari pengujian integrasi nyata. |
+| U001–AI002 | Ali menerima kendali manual tetapi mengingatkan bahwa risiko tidak nol. | Penjelasan Quick Replies dan *human-in-the-loop*. | Ali menanyakan siapa yang memperbarui template dan bagaimana menjaga akurasi. | K meningkat secara konseptual; A tetap hati-hati. | Hindari klaim mutlak; tambahkan tanggung jawab pemeliharaan. |
+| U002–AI003 | Ali menerima admin utama, lalu mengangkat risiko ketergantungan pada satu orang. | Pembagian peran dan pemeriksaan rutin. | Ali mengusulkan admin pengganti dan catatan perubahan. | Kebutuhan operasional menjadi lebih spesifik. | Rancang fallback dan prosedur pengganti. |
+| U003–AI005 | Ali menerima uji internal, dengan syarat staf tetap memeriksa informasi. | Admin utama/pengganti, catatan grup, fallback, dan uji tiga template. | Ali bersedia mencoba secara internal dan mengevaluasi sebelum diterapkan ke pelanggan. | A lebih terbuka; K lebih terstruktur; S nyata belum teramati. | Pertahankan pilot kecil dan validasi dengan praktik nyata. |
+
+Profil paket menggambarkan Ali sebagai pengelola usaha yang menghargai harmoni, belum memahami detail TI/AI, dan membutuhkan contoh serta latihan kecil. Preferensi MBTI fiktif paket adalah INFP; ini bukan diagnosis. Respons Ali dalam percakapan selaras dengan kebutuhan akan langkah kecil dan waktu untuk memeriksa risiko. Namun, tidak semua ciri kepribadian dapat disimpulkan hanya dari percakapan ini.
+
+## Pengaruh pesan personal dan kualitas relasi
+
+| Episode/ID | Pesan personal/kepedulian | Respons yang teramati | Rasa aman, kepercayaan, keterbukaan | Dampak ASK/SWOT dan batas inferensi |
+|---|---|---|---|---|
+| U001–AI002 | Mahasiswa menawarkan kontrol manual dan tes internal bersama staf. | Ali menyatakan lebih tenang karena pesan tidak terkirim otomatis, tetapi menolak klaim risiko nol. | Keterbukaan tampak sedang dan meningkat: Ali menyampaikan keberatan spesifik. | Dukungan konkret membantu diskusi; klaim mutlak perlu dikoreksi. |
+| U002–AI003 | Mahasiswa mengakui risiko lupa memperbarui template dan menawarkan pembagian peran. | Ali menyetujui konsep satu pintu, lalu mengungkap risiko jika admin utama tidak tersedia. | Ali tetap bersedia menguji ide dan menambahkan kebutuhan operasional. | Dialog menjadi lebih realistis; belum membuktikan kepercayaan di luar simulasi. |
+| U003–AI005 | Mahasiswa menawarkan pengganti, catatan internal, dan fallback. | Ali setuju mencoba tiga template dalam tes internal, bukan langsung ke pelanggan. | Kesediaan membuka informasi dan mempertimbangkan opsi berada pada kategori sedang–tinggi dalam simulasi. | Keputusan tetap bersyarat. Kategori ini adalah catatan simulator, bukan skala psikometri. |
+
+Kepedulian paling terlihat melalui pemberian pilihan, penerimaan keberatan, dan upaya mengurangi risiko operasional. Pada saat yang sama, penggunaan frasa “risiko sampai nol” serta kepastian biaya/kompatibilitas sebelum verifikasi tidak konsisten dengan komunikasi yang transparan. Kepedulian yang efektif perlu mencakup kehangatan sekaligus batas pengetahuan dan tanggung jawab yang jelas.
+
+## Uji ulang dan pembelajaran
+
+Uji ulang menghadirkan kekhawatiran baru: staf takut memberikan jawaban salah dan tidak ingin mempelajari aplikasi baru. Mahasiswa merespons dengan menawarkan Quick Replies yang tetap ditinjau dan dikirim manual, lalu menambahkan penanggung jawab template, admin pengganti, catatan perubahan, dan fallback jika template belum diperbarui. Ali kemudian bersedia mencoba tiga template secara internal bersama staf.
+
+Perbaikan yang terlihat adalah mahasiswa mempertahankan kendali manusia dan menyesuaikan prosedur setelah keberatan muncul. Batasnya: uji ulang terjadi dalam dialog simulasi; tidak ada demonstrasi aktual, pengukuran waktu, penghitungan tingkat akurasi, atau umpan balik staf nyata.
+
+## Penilaian enam dimensi
+
+Skor berikut merupakan usulan AI berdasarkan bukti yang tersedia dan perlu dimoderasi dosen. Skor proses dibedakan dari tercapai atau tidaknya hasil teknis.
+
+| Dimensi | Skor 1–4/BT | ID dan kutipan bukti | Alasan |
+|---|---:|---|---|
+| Tujuan dan konteks | 3 | Segmen awal (ringkasan); U001–U003 | Tujuan rendah risiko dan masalah operasional cukup jelas; konteks teknis aktual belum dikonfirmasi sebelum beberapa klaim solusi diberikan. |
+| Persepsi dan validasi profil/status | 3 | AI001–AI003; refleksi U005 | Mahasiswa menanggapi kekhawatiran staf dan akurasi, tetapi pada awalnya terlalu cepat membuat klaim kompatibilitas/biaya dan tidak selalu memisahkan asumsi dari fakta. |
+| Pemilihan dan urutan repertoar | 3 | U001–U003; AI002–AI004 | Solusi bertahap, fallback, dan pembagian peran relevan; beberapa detail prosedur berpotensi terlalu rumit dan perlu diverifikasi secara teknis. |
+| Eksekusi jelas, peduli dan konsisten | 3 | U001–U004; AI002–AI005 | Bahasa suportif dan responsif, tetapi janji “risiko sampai nol” tidak akurat. Perlu konsistensi lebih baik antara empati dan transparansi. |
+| Evaluasi dan adaptasi | 4 | U002–U003; AI002–AI005 | Mahasiswa menyesuaikan usulan setelah keberatan muncul, menambah fallback, serta menyepakati uji internal terbatas. Hasil tes langsung belum tersedia. |
+| Refleksi dan lesson learned | 4 | U005–U006 | Refleksi mengidentifikasi klaim berlebihan dan merumuskan tiga perubahan konkret terkait validasi teknis, mitigasi risiko, dan pilot bertahap. |
+
+**Jumlah usulan skor: 20/24. Nilai usulan AI: 83,3/100** (20 ÷ 24 × 100). Ini bukan nilai resmi; dosen dapat mengubahnya setelah memeriksa transkrip lengkap dan rubrik.
+
+## Refleksi dan lesson learned mahasiswa
+
+Mahasiswa mengidentifikasi bahwa pesan paling membantu adalah menawarkan pilot test tiga template dan mengakomodasi kekhawatiran Ali tentang kendali staf. Respons Ali yang terus menanyakan risiko perubahan template dipahami sebagai tanda bahwa ia merasa cukup aman untuk menyampaikan keraguan. Mahasiswa juga mengakui bahwa klaim risiko nol dan kepastian kompatibilitas/biaya sebelum verifikasi menghambat kualitas komunikasi. Bukti sikap hati-hati Ali tidak otomatis membuktikan turunnya kepercayaan, tetapi menunjukkan perlunya batas klaim yang realistis.
+
+Jika mengulang percakapan, mahasiswa akan: (1) memvalidasi kebutuhan dan kompatibilitas teknis sebelum memberi klaim; (2) menjelaskan mitigasi risiko alih-alih menjanjikan *zero error*; dan (3) menawarkan pilot bertahap sejak awal agar Ali dapat mengambil keputusan berdasarkan hasil tes. Pelajaran utama adalah menggabungkan empati dengan transparansi teknis, menghormati kendali pengguna, dan menguji asumsi sebelum menjanjikan hasil.
+
+## Tindak lanjut dan batas bukti
+
+| Langkah | Waktu/pemicu | Indikator evaluasi | Status bukti |
+|---|---|---|---|
+| Memeriksa fitur yang benar-benar tersedia pada perangkat dan akun WhatsApp Business sebelum menjanjikan integrasi. | Sebelum uji coba teknis. | Fitur/kompatibilitas dikonfirmasi melalui pengujian langsung. | Rencana; belum dilakukan. |
+| Membuat tiga Quick Replies: harga, stok hampir habis, dan barang kosong. | Pada tes internal yang direncanakan. | Staf dapat memilih, memeriksa, mengedit bila perlu, dan mengirim template dengan benar. | Rencana; belum dilakukan. |
+| Menentukan admin utama/pengganti dan prosedur pemeriksaan harga/stok. | Sebelum template dipakai dalam operasional. | Ada penanggung jawab dan fallback yang dipahami staf. | Rencana; belum divalidasi dengan staf nyata. |
+| Mengevaluasi kemudahan penggunaan dan potensi kesalahan. | Setelah simulasi internal. | Catatan kesalahan, kebingungan staf, dan waktu pengerjaan dibanding kondisi awal. | Rencana; tidak ada hasil pengukuran. |
+
+Teks tidak memungkinkan penilaian prosodi atau bahasa tubuh. Ali dan staf merupakan tokoh dalam simulasi chatbot; perubahan relasional adalah respons pemeranan, bukan pengukuran psikologis manusia nyata. Tidak ada bukti bahwa pertemuan jam 9 atau tes perangkat benar-benar terjadi. Perubahan jangka panjang dan keberhasilan teknis belum dibuktikan.
+
+## Bobot dan nilai akhir UTS
+
+| Komponen | Bobot | Nilai komponen |
+|---|---:|---|
+| Makalah pra-UTS (`paper.qmd`) | 10% | Nilai dosen pada skala 0–100 |
+| Sesi 1 | 18% | Usulan AI 83,3/100; menunggu moderasi dosen |
+| Sesi 2a | 18% | Usulan AI 87,5/100; menunggu moderasi dosen |
+| Sesi 2b | 18% | Belum tersedia dalam laporan ini |
+| Sesi 3a | 18% | Usulan AI 83,3/100; menunggu moderasi dosen |
+| Sesi 3b | 18% | Belum tersedia |
+| **Total** | **100%** | **Belum dihitung** |
+
+**Nilai akhir UTS = 0,10 × M + 0,18 × (S1 + S2a + S2b + S3a + S3b)**, dengan seluruh nilai komponen pada skala 0–100. Nilai akhir belum dihitung karena nilai makalah dan seluruh nilai sesi resmi belum tersedia. Nilai sesi adalah usulan AI dan memerlukan moderasi dosen; komponen yang belum tersedia tidak dianggap nol dan bobot tidak dinormalisasi ulang.

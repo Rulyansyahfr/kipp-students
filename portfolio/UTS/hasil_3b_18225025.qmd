@@ -1,0 +1,219 @@
+---
+title: "Laporan UTS KIPP 2026 — Versi 2.0"
+subtitle: "Sesi 3b — Kasus 3: Customer TI/AI"
+lang: id
+format:
+  html:
+    toc: true
+execute:
+  eval: false
+---
+
+# A) Identitas
+
+| Elemen | Keterangan |
+|---|---|
+| Nama mahasiswa | Rulyansyah Fajar Ramadhan |
+| NIM | 18225025 |
+| Kelas dan tanggal | II2100; 15 Oktober 2026 |
+| Nomor/judul kasus | Sesi 3b; Kasus 3 — customer TI/AI |
+| Nama dan ID target | Dimas (K3-04) |
+| Versi bank/aturan penugasan | Bank 2.0; paket individual 2.0 |
+| Modalitas | Teks |
+| Kasus nyata/fiktif | Fiktif; simulasi percakapan dengan chatbot |
+| Kelengkapan transkrip | Parsial: sebagian giliran tersedia sebagai catatan isi, bukan kutipan verbatim lengkap. Bagian yang tidak tersedia secara verbatim diringkas tanpa mengarang kutipan. Uji coba operasional belum dilakukan. |
+
+# B) Kasus dan Tujuan
+
+## Kasus dan tujuan tindakan
+
+Dimas adalah pemilik usaha yang menerima pertanyaan pelanggan berulang melalui WhatsApp, terutama tentang stok dan harga. Pesan terkait pesanan dapat tertimbun sehingga ada risiko pesanan terlewat. Dimas skeptis terhadap solusi AI dan ingin mengetahui bukti manfaatnya, biaya, kebutuhan akses data, dampak terhadap staf, serta apakah fitur bawaan WhatsApp Business sudah cukup.
+
+Tujuan mahasiswa adalah menggali masalah nyata terlebih dahulu, menjelaskan opsi dengan jujur, dan mencapai kesepakatan untuk langkah awal yang terukur serta berisiko rendah. Tujuannya bukan memaksakan AI. Hasil percakapan adalah kesediaan Dimas mempertimbangkan uji coba terbatas memakai fitur WhatsApp Business yang sudah tersedia, tanpa biaya atau aplikasi baru. Ini baru kesepakatan rencana; uji coba lima hari belum benar-benar dilaksanakan.
+
+Indikator keberhasilan percakapan:
+- Dimas menjelaskan masalah operasional dan keberatannya secara spesifik.
+- Solusi mempertimbangkan privasi, kemampuan staf, dan waktu yang tersedia.
+- Klaim teknis serta target angka disampaikan secara hati-hati.
+- Ada langkah awal, durasi, peran, dan cara evaluasi yang dapat ditinjau ulang.
+- Kesediaan mencoba tidak disamakan dengan bukti bahwa solusi telah berhasil.
+
+## Profil awal komunikator
+
+| Unsur | Dugaan awal | Bukti/penjelasan | Kepastian |
+|---|---|---|---|
+| Attitude | Dimas cenderung skeptis, berhati-hati, dan tidak ingin mendapat janji berlebihan. | Pertanyaan pembuka: “Apa bukti pendekatan ini lebih baik?” | Dugaan yang kemudian didukung percakapan |
+| Knowledge | Dimas memahami alur usaha dan fitur WhatsApp yang dipakai, tetapi belum yakin apakah AI atau integrasi tambahan diperlukan. | Ia membandingkan AI dengan fitur bawaan WhatsApp Business dan mempertanyakan akses data. | Didukung percakapan |
+| Skill/keterbatasan | Waktu pemilik terbatas dan staf mungkin lupa mengikuti prosedur tambahan. | Dimas menyoroti beban pelaporan, pelabelan, dan risiko penanda yang tidak akurat. | Didukung percakapan |
+| SWOT — Strengths | Ada alur komunikasi yang sudah berjalan dan fitur bawaan yang dapat dimanfaatkan. | Dimas terbuka membahas proses yang sedang dipakai. | Interpretasi |
+| SWOT — Weaknesses | Pesan dapat tertimbun; prosedur manual berisiko dilupakan. | Masalah pesanan terlewat dan kekhawatiran terhadap penanda manual. | Didukung percakapan |
+| SWOT — Opportunities | Uji kecil dapat membantu menguji apakah pengaturan sederhana memperbaiki tindak lanjut. | Kesediaan Dimas mempertimbangkan uji coba terbatas. | Peluang, belum terbukti |
+| SWOT — Threats | Prosedur baru dapat menambah beban staf, penanda bisa keliru, dan integrasi dapat menimbulkan biaya/risiko privasi. | Keberatan Dimas selama dialog. | Didukung percakapan |
+
+## Strategi awal
+
+Saya memulai dengan menggali masalah operasional, bukan langsung menawarkan produk AI. Saya mengusulkan uji coba terbatas dan indikator terukur, lalu merevisi pendekatan ketika Dimas mempertanyakan validitas data, kemampuan teknis, biaya, dan beban staf. Saat keterbatasan akses data belum terverifikasi, saya menyatakannya dan mengalihkan rencana ke opsi yang tidak memerlukan ekspor percakapan atau aplikasi tambahan.
+
+# C) Skrip Percakapan
+
+**Catatan integritas transkrip:** Dialog di bawah mengikuti urutan percakapan yang tersedia. Karena sebagian giliran hanya tersimpan sebagai catatan isi, beberapa pesan diringkas dan tidak ditampilkan sebagai kutipan verbatim. Penanda tersebut tidak boleh dianggap sebagai rekaman kata demi kata. Uji coba operasional nyata tidak dilakukan.
+
+## Tahap 1 — Simulasi utama
+
+**AI001 — Dimas (pembuka)**  
+“Apa bukti pendekatan ini lebih baik?”
+
+**U001 — Mahasiswa**  
+Saya menjelaskan bahwa uji coba terbatas dapat mengurangi gangguan terhadap pekerjaan dan menguji kesiapan staf. Saya mengusulkan pengukuran waktu respons serta kesiapan staf, lalu bertanya masalah alur kerja apa yang paling sering menyebabkan pesanan terlewat.
+
+**AI002 — Dimas**  
+Dimas menjelaskan bahwa pelanggan sering bertanya stok dan harga lewat WhatsApp, tetapi chat bisa tertimbun. Ia mempertanyakan mengapa perlu AI jika WhatsApp Business sudah memiliki fitur bawaan.
+
+**U002 — Mahasiswa**  
+Saya menjelaskan bahwa fitur bawaan masih bergantung pada tindakan manual, sementara otomasi mungkin dapat membantu mengenali niat membeli dan mengingatkan staf. Saya juga menyatakan bahwa alur yang ada sebaiknya dioptimalkan terlebih dahulu sebelum menambah sistem.
+
+**AI003 — Dimas**  
+Dimas setuju untuk mengevaluasi alur yang sudah ada, tetapi bertanya bagaimana membuktikan berkurangnya pesanan terlewat, bukan sekadar perasaan bahwa proses membaik. Ia juga mengatakan waktu supervisinya terbatas.
+
+**U003 — Mahasiswa**  
+Saya mengusulkan pengukuran selama sekitar 5–7 hari, termasuk persentase pesanan yang tidak ditanggapi lebih dari dua jam, waktu respons, dan konversi. Saya menawarkan membuat laporan satu halaman dan membantu analisis.
+
+**AI004 — Dimas**  
+Dimas mempertanyakan keadilan perbandingan apabila volume chat atau jumlah staf berbeda. Ia juga bertanya siapa yang akan mencatat data dan tidak ingin menambah beban pelaporan bagi staf.
+
+**U004 — Mahasiswa**  
+Saya mengusulkan penggunaan rasio/persentase agar perbedaan volume lebih mudah dibandingkan. Saya sempat mengusulkan pengambilan data secara otomatis atau sistematis agar staf tidak perlu memasukkan data tambahan.
+
+**AI005 — Dimas**  
+Dimas mempertanyakan apakah data WhatsApp Business benar-benar bisa diambil otomatis, serta menyoroti akses pihak ketiga, biaya, dan privasi.
+
+**U005 — Mahasiswa**  
+Saya mengakui belum memverifikasi kemampuan pengambilan data otomatis. Saya menjelaskan bahwa aplikasi standar tidak otomatis menyediakan ekspor data terstruktur untuk kebutuhan tersebut tanpa alat atau integrasi tambahan. Saya lalu mengusulkan agar tidak memakai pihak ketiga atau biaya baru; jika pemilik merasa nyaman, ekspor dapat dilakukan oleh pemilik/staf dan dianonimkan. Alternatif yang lebih aman adalah memakai label bawaan dan meninjau aplikasi tanpa mengekspor percakapan.
+
+**AI006 — Dimas**  
+Dimas lebih memilih tidak mengekspor percakapan, tetapi khawatir staf akan lupa memakai label manual. Ia bersedia mempertimbangkan uji coba sederhana apabila durasi, tanggung jawab, dan ukuran keberhasilannya jelas.
+
+**U006 — Mahasiswa**  
+Saya menerima bahwa proses manual bisa luput. Saya mengusulkan uji coba lima hari kerja selama jam operasional: staf memberi label setelah tindak lanjut, pemilik memantau, dan saya menyiapkan SOP satu halaman serta briefing 15 menit. Saya mengusulkan target awal kepatuhan label minimal 85% dan persentase pesanan yang tidak ditanggapi kurang dari 5%.
+
+**AI007 — Dimas**  
+Dimas bertanya dasar penetapan target 85% dan 5%.
+
+**U007 — Mahasiswa**  
+Saya mengakui angka itu adalah hipotesis kerja, bukan standar industri. Saya mengusulkan dua hari pertama untuk mengambil kondisi awal (baseline), lalu menyesuaikan target untuk hari berikutnya berdasarkan data yang ditemukan.
+
+**AI008 — Dimas**  
+Dimas bertanya bagaimana mengambil keputusan jika jumlah pesan terlewat turun tetapi staf merasa prosedurnya menambah beban.
+
+**U008 — Mahasiswa**  
+Saya mengusulkan evaluasi dua sisi: metrik operasional serta umpan balik staf melalui survei atau wawancara singkat sekitar 3–5 menit. Hasilnya dapat menjadi dasar untuk melanjutkan, merevisi, atau menghentikan uji coba. Kenyamanan staf perlu dipertimbangkan serius dan tidak boleh diabaikan hanya karena angka terlihat baik.
+
+**AI009 — Dimas**  
+Dimas meminta langkah pertama yang jelas untuk hari berikutnya, pembagian tugas, dan estimasi waktu. Ia tidak ingin biaya atau akses baru sebelum kebutuhan benar-benar jelas.
+
+**U009 — Mahasiswa**  
+Saya mengusulkan menyiapkan SOP selama 15–20 menit, membuat satu label untuk pesanan yang perlu ditindaklanjuti, serta membantu staf selama 10–15 menit. Rencana tidak membutuhkan ekspor percakapan.
+
+**AI010 — Dimas**  
+Dimas setuju mencoba persiapan pada pagi hari, dengan briefing maksimal 15 menit. Ia menegaskan bahwa ini hanya uji coba, bukan keputusan permanen.
+
+**U010 — Mahasiswa**  
+Saya menyetujui uji coba terbatas lima hari, briefing singkat, penggunaan label, pengamatan kondisi awal, dan evaluasi pada akhir hari kelima. Tidak ada komitmen untuk mengadopsi sistem secara permanen.
+
+**AI011 — Dimas**  
+Dimas menegaskan bahwa ia hanya bersedia berkomitmen pada tahap persiapan dan uji coba, bukan penerapan jangka panjang.
+
+## Tahap 2 — Uji ulang: kendala operasional baru
+
+**AI012 — Dimas**  
+Dimas menyampaikan bahwa staf keberatan memberi label pada setiap chat karena dapat terlupa atau memperlambat pelayanan. Ia mengusulkan fitur pin chat untuk pesanan penting dan bertanya apakah cara itu layak diuji tanpa menambah beban.
+
+**U011 — Mahasiswa**  
+Saya menerima usulan staf. Saya menyebutkan bahwa WhatsApp memiliki batas tiga chat yang dapat dipin, lalu mengusulkan pin untuk pesanan aktif dan melepas pin setelah selesai. Saya menyarankan pengujian selama 3–5 hari untuk melihat apakah slot pin sering penuh dan apakah pesanan masih terlewat.
+
+**AI013 — Dimas**  
+Dimas setuju mencoba pin chat selama tiga hari, tetapi bertanya apa yang dilakukan jika lebih dari tiga pesanan aktif agar pesanan lain tidak terlupakan.
+
+**U012 — Mahasiswa**  
+Saya mengusulkan menandai chat sebagai belum dibaca sebagai cadangan ketika tiga slot pin sudah terpakai. Cara ini hanya digunakan saat batas pin tercapai atau pada jam sibuk, lalu dievaluasi berdasarkan frekuensi slot penuh dan apakah penanda belum dibaca membantu.
+
+**AI014 — Dimas**  
+Dimas mengingatkan bahwa status belum dibaca tidak selalu berarti ada pesanan yang masih harus ditindaklanjuti, sehingga bisa menimbulkan kebingungan.
+
+**U013 — Mahasiswa**  
+Saya memperjelas bahwa status belum dibaca hanya dipakai untuk chat yang sudah diperiksa sekilas dan dipastikan berisi pesanan aktif, lalu ditandai kembali sebagai belum dibaca. Status belum dibaca secara umum tidak boleh dianggap sebagai daftar pasti pesanan tertunda. Saya mengusulkan evaluasi kenyamanan staf dan efektivitas cara tersebut; jika tidak efektif, prosedur ditinjau kembali.
+
+**AI015 — Dimas**  
+Dimas mengangkat risiko terakhir: staf mungkin lupa mengubah status chat setelah pesanan selesai, sehingga chat lama tetap tampak belum selesai. Ia meminta cara sederhana untuk mengurangi risiko tersebut tanpa membuat banyak aturan tambahan.
+
+**Penutupan simulasi**  
+Simulasi dihentikan agar tidak berlarut-larut. Ringkasan penutup yang disusun setelah dialog menyatakan bahwa uji coba sederhana dapat dimulai menggunakan fitur bawaan WhatsApp Business selama lima hari, dengan kenyamanan staf dan evaluasi terbuka sebagai prioritas. Ringkasan penutup ini bukan giliran dialog verbatim dari Dimas. Pertanyaan terakhir AI015 belum dijawab dalam dialog sebelum simulasi ditutup.
+
+# D) Evaluasi, Uji Ulang, dan Refleksi
+
+## Evaluasi hasil simulasi utama
+
+Tujuan percakapan tercapai pada tingkat kesepakatan awal: Dimas bersedia mempertimbangkan persiapan dan uji coba terbatas, dengan durasi dan evaluasi yang jelas. Tujuan ini belum membuktikan bahwa pesanan terlewat benar-benar berkurang. Tidak ada penerapan nyata atau pengukuran hasil operasional dalam percakapan.
+
+| Aspek | Bukti | Evaluasi |
+|---|---|---|
+| Menggali kebutuhan | Dimas menjelaskan pesan stok/harga tertimbun dan pesanan terlewat. | Berhasil; percakapan berangkat dari masalah yang relevan. |
+| Kejujuran teknis | Saya mengakui belum memverifikasi pengambilan data otomatis. | Kuat; koreksi ini mengurangi risiko klaim berlebihan. |
+| Privasi dan biaya | Opsi ekspor dan pihak ketiga tidak dipaksakan; alternatif tanpa ekspor disediakan. | Sesuai dengan kekhawatiran pelanggan. |
+| Ukuran keberhasilan | Ada rencana baseline, metrik, dan umpan balik staf. | Cukup baik, tetapi metrik perlu disesuaikan dengan solusi akhir. |
+| Kelayakan staf | Saya menanggapi keberatan staf dan menerima fitur bawaan sebagai opsi awal. | Baik, tetapi prosedur label/pin/unread tetap berisiko menambah beban dan membingungkan. |
+| Penutupan | Ada rencana uji terbatas lima hari dan tidak ada komitmen permanen. | Kesepakatan awal tercapai; belum merupakan hasil implementasi. |
+
+## Evaluasi uji ulang
+
+Uji ulang memunculkan masalah praktis baru: staf keberatan melakukan pelabelan, kapasitas pin chat terbatas, dan status belum dibaca dapat menjadi penanda yang tidak akurat. Saya menyesuaikan solusi dengan menerima usulan pin chat dan mengusulkan status belum dibaca hanya sebagai cadangan yang terdefinisi.
+
+Namun, solusi cadangan tersebut belum sepenuhnya menjawab risiko terakhir yang ditanyakan Dimas, yaitu staf lupa mengembalikan status chat setelah pesanan selesai. Simulasi ditutup sebelum saya menjawab pertanyaan tersebut. Karena itu, uji ulang dinilai **parsial**, bukan tuntas. Langkah yang masuk akal untuk pembahasan lanjutan adalah menguji apakah pin saja cukup terlebih dahulu; jangan menambah penanda kedua kecuali masalah kapasitas benar-benar muncul, dan tetapkan satu langkah penutupan pesanan yang sederhana bila uji coba dilanjutkan.
+
+## ASK: Attitude, Skill, Knowledge
+
+| Unsur | Temuan dari dialog | Refleksi |
+|---|---|---|
+| Attitude | Dimas skeptis terhadap klaim, menjaga privasi, dan mengutamakan kenyamanan staf. | Sikap skeptis diperlakukan sebagai masukan yang perlu dijawab dengan transparansi, bukan hambatan yang harus dilawan. |
+| Skill | Pemilik memiliki waktu terbatas; staf mungkin lupa mengikuti prosedur manual. | Solusi perlu meminimalkan langkah tambahan dan mudah dilakukan saat jam sibuk. |
+| Knowledge | Dimas memahami masalah alur chat dan mengetahui fitur bawaan, tetapi meminta bukti apakah AI diperlukan. | Perlu membedakan kemampuan fitur bawaan, otomasi tambahan, dan AI; jangan mengasumsikan integrasi teknis tersedia. |
+
+## SWOT setelah simulasi
+
+| Unsur | Hasil refleksi |
+|---|---|
+| Strengths | Pendekatan transparan; bersedia mengoreksi asumsi; fokus pada masalah operasional; solusi awal tidak mensyaratkan biaya atau aplikasi baru. |
+| Weaknesses | Sempat mengusulkan target 85% dan 5% sebelum baseline tersedia; awalnya terlalu cepat mengasumsikan data bisa diambil otomatis; prosedur label/pin/unread berpotensi menjadi terlalu rumit. |
+| Opportunities | Menguji fitur bawaan yang sudah dipahami staf, mengukur masalah terlebih dahulu, dan menggunakan hasil untuk menentukan apakah otomasi tambahan memang dibutuhkan. |
+| Threats | Staf dapat lupa memperbarui penanda, jumlah pesanan aktif dapat melampaui kapasitas pin, pengukuran manual dapat tidak konsisten, dan prosedur baru dapat mengganggu pelayanan. |
+
+## Stimulus yang efektif dan kurang efektif
+
+**Efektif**
+- Menanyakan masalah yang menyebabkan pesanan terlewat sebelum mendorong solusi.
+- Mengakui keterbatasan teknis ketika belum diverifikasi.
+- Menawarkan alternatif yang tidak memerlukan ekspor chat, biaya baru, atau aplikasi pihak ketiga.
+- Mengakui bahwa angka target awal hanya hipotesis dan perlu ditinjau setelah baseline.
+- Menganggap kenyamanan staf sebagai bagian dari evaluasi, bukan sekadar pelengkap.
+
+**Kurang efektif**
+- Mengusulkan pengambilan data otomatis sebelum memverifikasi kemampuan teknis WhatsApp Business.
+- Menetapkan target 85% dan 5% sebelum mengetahui kondisi awal.
+- Memperkenalkan label, pin, dan status belum dibaca secara berurutan sehingga berisiko membuat sistem penanda terlalu rumit.
+- Menutup simulasi sebelum menjawab risiko terakhir terkait chat yang tetap tampak belum selesai.
+
+## Pelajaran dan tindak lanjut
+
+1. Mulai dari masalah dan alur kerja yang ada; jangan menganggap AI selalu diperlukan.
+2. Pisahkan fakta teknis yang sudah diverifikasi dari hipotesis yang perlu diuji.
+3. Tetapkan baseline sebelum menentukan target numerik.
+4. Uji satu perubahan sederhana pada satu waktu. Untuk kasus ini, pin chat dapat diuji terlebih dahulu sebelum menambahkan label atau status belum dibaca.
+5. Tentukan cara menandai pesanan selesai yang mudah dan konsisten, tetapi jangan mengklaim prosedur sudah tervalidasi.
+6. Evaluasi dampak terhadap staf bersama metrik operasional.
+7. Bila uji coba nyata dilakukan, catat data awal dan akhir, jumlah chat/pesanan, pengecualian, masukan staf, serta keputusan melanjutkan, merevisi, atau menghentikan.
+
+## Kesimpulan
+
+Simulasi menghasilkan kesediaan awal untuk meninjau dan menguji cara sederhana menggunakan fitur bawaan WhatsApp Business. Keunggulan utama pendekatan adalah transparansi, respons terhadap kekhawatiran pelanggan, dan kesediaan menyesuaikan solusi. Kelemahan utamanya adalah asumsi awal tentang otomatisasi data, target numerik yang belum didasarkan pada baseline, serta belum tuntasnya risiko penanda chat pada uji ulang.
+
+**Status akhir:** rencana uji coba lima hari disepakati sebagai langkah yang akan dipertimbangkan; uji coba belum dilaksanakan dan efektivitasnya belum terbukti. Uji ulang parsial karena pertanyaan terakhir Dimas belum dijawab sebelum simulasi dihentikan.
