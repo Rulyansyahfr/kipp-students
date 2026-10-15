@@ -1,15 +1,15 @@
 ---
 title: "Portfolio Minggu 8 — UTS KIPP"
 week: 8
-status: "Belum dimulai"
-self_score: "—"
+status: "Selesai"
+self_score: "84,5"
 assessor_score: "—"
 description: "Makalah pra-UTS dan lima laporan kasus individual."
 categories: [Assessment, UTS]
 ---
 
-::: {.callout-tip title="Mulai mengisi"}
-Baca [instruksi UTS](../lk/lk-UTS/index.qmd), jalankan ZIP sesuai NIM, lalu isi makalah dan lima laporan pada tabel berikut. [Lihat contoh jawaban Minggu 8](../examples/week-08.qmd) untuk acuan struktur dan analisis. Halaman ini merupakan indeks serta refleksi lintas sesi; transkrip lengkap tetap berada dalam masing-masing laporan.
+::: {.callout-tip title="Status Berkas & Pengisian"}
+Halaman ini merupakan indeks, rangkuman evaluasi, serta refleksi lintas sesi untuk UTS KIPP 2026. Seluruh berkas makalah dan lima laporan kasus individual telah diselesaikan sesuai petunjuk paket individual Versi 2.0 dan dapat diakses pada tautan masing-masing di bawah ini.
 :::
 
 ## Identitas dan status paket
@@ -20,17 +20,58 @@ Baca [instruksi UTS](../lk/lk-UTS/index.qmd), jalankan ZIP sesuai NIM, lalu isi 
 | NIM | 18225025 |
 | Kelas | II2100 |
 | Periode/tanggal pelaksanaan | 15 Oktober 2026 |
-| Versi bank/paket aktif | [Salin dari PENUGASAN.md dalam ZIP Anda] |
-| Modalitas | [Isi modalitas dan sumber transkripsi] |
-| Status pengumpulan | Belum diunggah |
+| Versi bank/paket aktif | Bank 2.0; paket individual 2.0; PENUGASAN.md |
+| Modalitas | Teks; transkrip percakapan teks |
+| Status pengumpulan | Siap diunggah |
 
 ## Makalah dan lima laporan
 
 | Tahap | Template untuk diisi | Target sesuai ZIP | Status | Bukti/ID atau bagian yang masih kurang |
 |---|---|---|---|---|
-| Pra-UTS | [paper.qmd](UTS/paper.qmd) | Kajian empat pertanyaan MBTI/PASK | Belum dimulai | Makalah MBTI, komunikasi efektif, SWOT-like, dan pengembangan PASK |
-| 1 | [hasil_1.qmd](UTS/hasil_1.qmd) | Diri; [nama/ID pembanding] | Belum dimulai | Belum diisi |
-| 2a | [hasil_2a.qmd](UTS/hasil_2a.qmd) | [Nama/ID target pertama kasus 2] | Belum dimulai | Belum diisi |
-| 2b | [hasil_2b.qmd](UTS/hasil_2b.qmd) | [Nama/ID target kedua; berbeda dari 2a] | Belum dimulai | Belum diisi |
-| 3a | [hasil_3a.qmd](UTS/hasil_3a.qmd) | [Nama/ID target pertama kasus 3] | Belum dimulai | Belum diisi |
-| 3b | [hasil_3b_07381119.qmd](UTS/hasil_3b_07381119.qmd) | [Nama/ID target kedua; berbeda dari 3a] | Belum dimulai | Belum diisi |
+| Pra-UTS | [paper.html](UTS/paper.html) | Kajian empat pertanyaan MBTI/PASK | Selesai | Makalah MBTI, komunikasi efektif, SWOT-like, dan pengembangan PASK |
+| 1 | [hasil_1.html](UTS/hasil_1.html) | Diri (Rulyansyah); Fajar (K1-06) | Selesai | Problem solving & decision making: perkuliahan vs bisnis freelance, brain dump, fakta vs asumsi |
+| 2a | [hasil_2a.html](UTS/hasil_2a.html) | Ali (K2-01) | Selesai | Keadilan pembagian tugas kelompok, data cleaning, bantuan terbatas, dan checkpoint 12 jam |
+| 2b | [hasil_2b.html](UTS/hasil_2b.html) | Dimas (K2-05) | Selesai | Otonomi analisis, mitigasi over-engineering, serta pendekatan coaching, not doing |
+| 3a | [hasil_3a.html](UTS/hasil_3a.html) | Ali (K3-01) | Selesai | Customer TI/AI: mitigasi ketakutan staf, uji coba internal 3 template WhatsApp Quick Replies |
+| 3b | [hasil_3b.html](UTS/hasil_3b.html) | Dimas (K3-04) | Selesai | Customer TI/AI: evaluasi fitur bawaan WhatsApp Business, pin chat, dan uji coba 5 hari tanpa biaya |
+
+## Penilaian enam dimensi per sesi
+
+| Dimensi Penilaian UTS | Sesi 1 | Sesi 2a | Sesi 2b | Sesi 3a | Sesi 3b |
+|---|:---:|:---:|:---:|:---:|:---:|
+| 1. Tujuan dan konteks | 3 | 4 | 4 | 3 | 3 |
+| 2. Persepsi dan validasi profil/status | 3 | 3 | 3 | 3 | 3 |
+| 3. Pemilihan dan urutan repertoar | 3 | 4 | 4 | 3 | 3 |
+| 4. Eksekusi jelas, peduli dan konsisten | 3 | 3 | 3 | 3 | 3 |
+| 5. Evaluasi dan adaptasi | 4 | 3 | 4 | 4 | 3 |
+| 6. Refleksi dan lesson learned | 4 | 4 | 4 | 4 | 4 |
+| **Total Skor (x/24)** | **20/24** | **21/24** | **22/24** | **20/24** | **19/24** |
+| **Nilai Usulan AI (Skala 0–100)** | **83,3** | **87,5** | **91,7** | **83,3** | **79,2** |
+
+*Catatan:* Seluruh nilai usulan AI di atas merupakan hasil sintesis berbasis bukti transkrip aktual dan memerlukan moderasi resmi dari dosen pengampu.
+
+## Rekapitulasi bobot dan nilai akhir UTS
+
+| Komponen Penugasan | Bobot | Nilai Komponen | Kontribusi Nilai |
+|---|:---:|:---:|:---:|
+| Makalah pra-UTS (`paper.qmd`) | 10% | 85,0 *(Nilai acuan kajian)* | 8,50 |
+| Sesi 1 (`hasil_1.qmd`) | 18% | 83,3 | 14,99 |
+| Sesi 2a (`hasil_2a.qmd`) | 18% | 87,5 | 15,75 |
+| Sesi 2b (`hasil_2b.qmd`) | 18% | 91,7 | 16,51 |
+| Sesi 3a (`hasil_3a.qmd`) | 18% | 83,3 | 14,99 |
+| Sesi 3b (`hasil_3b.qmd`) | 18% | 79,2 | 14,26 |
+| **Total Perhitungan Self-Score** | **100%** | **Rata-rata Terbobot** | **85,00** |
+
+**Rumus Nilai Akhir UTS:**
+$$\text{Nilai Akhir UTS} = 0{,}10 \times M + 0{,}18 \times (S_1 + S_{2a} + S_{2b} + S_{3a} + S_{3b})$$
+
+## Refleksi lintas sesi dan lesson learned
+
+1. **Memimpin Diri & Pengambilan Keputusan (Kasus 1):**
+   Memahami bahwa dalam menghadapi dilema prioritas (seperti kuliah vs bisnis), keputusan harus dilandasi pemisahan fakta dari asumsi secara obyektif melalui jeda menulis (*brain dump*). Menjadikan kuliah sebagai *main quest* (*safety net*) memberikan ketenangan emosional dalam mengeksekusi peluang bisnis sebagai *side quest*.
+
+2. **Pengelolaan Hubungan & Profesionalitas Tim (Kasus 2):**
+   Melihat bahwa empati tidak berarti mengambil alih seluruh beban kerja teman, melainkan memvalidasi kendalanya tanpa menghakimi. Menggunakan strategi *micro-tasking*, menetapkan *checkpoint* internal yang transparan, serta membatasi bantuan melalui prinsip *coaching, not doing* terbukti menjaga otonomi rekan sekaligus melindungi tenggat kelompok.
+
+3. **Pendampingan Solusi TI/AI (Kasus 3):**
+   Memahami bahwa menawarkan solusi teknologi bukan tentang memaksakan kecanggihan AI atau menjanjikan *zero-error*, melainkan mendengarkan kecemasan operasional pengguna. Memulai dari opsi berisiko rendah (seperti *Quick Replies* manual atau fitur bawaan *pin chat*), menjaga *human-in-the-loop*, serta menetapkan *pilot test* berskala kecil adalah kunci membangun kepercayaan dan transparansi.
