@@ -1,8 +1,8 @@
 ---
 title: "Target–Attention Challenge"
 week: 6
-status: "Belum dimulai"
-self_score: "—"
+status: "Siap dinilai"
+self_score: "17"
 assessor_score: "—"
 description: "Target map, attention pitch, response, dan state assessment."
 categories: [TAIDA, Attention]
@@ -21,5 +21,50 @@ Memilih target person yang tepat dan membuat issue diakui relevan melalui eviden
 ::: {.callout-tip title="Lihat contoh pengisian"}
 [Buka contoh fiktif Minggu 6](../examples/week-06.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
 :::
+
+## Target map
+
+| Person | Relevance | Authority | Current state |
+|---|---|---|---|
+| Koordinator/pengelola ruang | Mengatur alokasi dan aturan pakai ruang | Bisa menyetujui uji coba kecil | Belum terlalu paham / netral |
+| Penjaga/petugas operasional | Langsung berhadapan dengan bentrok jadwal & ruang kosong | Bisa menjalankan alur harian | Sudah sadar masalah |
+| Ketua kelompok / pengguna aktif | Rutin memakai ruang buat diskusi | Bisa bantu uji coba alur baru | Sudah sadar masalah |
+| Tim teknis / sistem | Mengurus infrastruktur jika nanti ada fitur tambahan | Dibutuhkan kalau skalanya diperbesar | Belum dilibatkan |
+
+Aku memilih **penjaga/petugas operasional** sebagai target awal karena mereka paling sering ketemu langsung sama situasi ruang yang kelihatannya kosong tapi ternyata sudah dipesan atau sebaliknya, dan bisa bantu ngecek apakah keluhan ini memang sering kejadian di keseharian. Aku nggak langsung minta persetujuan perubahan besar ke pengelola sebelum masalah utamanya kepegang buktinya.
+
+## Attention pitch
+
+> “Dari obrolan singkat sama beberapa teman minggu ini, ada beberapa kelompok yang molor mulai diskusinya karena status ruang kurang jelas—kadang nunggu nggak pasti atau pindah tempat mendadak. Di catatan singkat juga sempat muncul beberapa keluhan soal jadwal bentrok. Aku belum mau buru-buru nyimpulin kalau jumlah ruangnya kurang. Boleh nggak kita cek bareng apakah masalah utamanya memang di kejelasan status pemakaian dan ruang yang ditinggal kosong?”
+
+Pas nyampein pitch ini aku sengaja nyebutin batas datanya secara terus terang—kalau ini masih temuan awal dari obrolan terbatas dan catatan singkat, bukan klaim menyeluruh—biar nggak terkesan melebih-lebihkan.
+
+## Response dan state assessment
+
+Respons yang muncul intinya masalahnya memang ada, cuma waktu itu kebetulan lagi ramai kegiatan, jadi di hari biasa mungkin kondisinya nggak separah itu. Dari situ kelihatan kalau isunya **diakui relevan**, tapi seberapa seringnya masih diraguin. Jadi posisinya geser dari sekadar **sadar masalah** ke arah **perhatian dengan catatan/keraguan**, belum sampai ke tahap tertarik sama solusi tertentu.
+
+Aku nyesuaiin lagi arah obrolannya:
+
+> “Masuk akal sih kalau pas lagi ramai angkanya kelihatan lebih tinggi. Kalau gitu, boleh nggak aku lihat gambaran kasarnya di beberapa hari biasa aja dulu sebelum mikirin langkah perbaikannya?”
+
+Kesepakatannya mengarah ke ngecek gambaran kasar di hari biasa tanpa nyentuh data pribadi siapa pun. Tujuan obrolannya juga ikut bergeser: dari awalnya nyari dukungan awal, jadi nyepakatin cara ngecek fakta yang lebih adil dulu.
+
+## Evidence, AI, dan catatan tindak lanjut
+
+- **Evidence:** Catatan poin hasil ngobrol singkat dengan tiga teman soal kendala mulai diskusi ruang, rekap singkat keluhan jadwal bentrok yang sempat dicatat, serta ringkasan obrolan dan kesepakatan ngecek kondisi hari biasa bareng target.
+- **Penggunaan AI:** Aku pakai AI buat ngecek apakah kalimat pitch-ku sudah misahin antara fakta kejadian dan kesimpulan sendiri, serta mastiin nggak ada bahasa yang terlalu mengklaim berlebihan. Nggak ada data pribadi atau identitas orang lain yang aku masukin ke sana.
+- **Catatan & langkah berikutnya:** Latihan nyampein inti masalah dan relevansinya dengan singkat tanpa nutupin keterbatasan data yang ada. Berikutnya aku mau ngecek gambaran di hari biasa dulu sebelum nentuin langkah lanjutan.
+
+## Self-assessment
+
+| Dimensi | Skor | Alasan |
+|---|---:|---|
+| Person & Character | 4 | Pemilihan target didasarkan pada kedekatan dengan masalah di lapangan dan peran praktisnya. |
+| Objective & State | 3 | Perubahan posisi target dan tujuan percakapan sudah cukup jelas, meski ukuran target pergeserannya masih bisa lebih tajam. |
+| Repertoire, Language & AI | 4 | Bahasa pitch lugas, batas data disebutkan, dan pemakaian AI dibatasi dengan jelas. |
+| Response & Adaptation | 3 | Keraguan soal konteks waktu ditanggapi dengan mengubah fokus ke hari biasa, walau alur tanya-jawabnya masih bisa diperhalus. |
+| Agreement, Action & Relationship | 3 | Arah cek data lanjutan dan batasan privasi disepakati, tinggal detail waktu pengecekan pastinya yang perlu diperjelas. |
+
+**Total: 17/20 — Kompeten.**
 
 {{< include ../includes/evidence-template.md >}}
