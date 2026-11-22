@@ -6707,7 +6707,7 @@
     "href": "portfolio/week-09.html#current-dan-desired-state",
     "title": "Desire-State Communication",
     "section": "Current dan desired state",
-    "text": "Current dan desired state\n\n\n\n\n\n\n\nElemen\nRumusan berdasarkan sudut pandang target\n\n\n\n\nCurrent state\nStatus ruang dicek manual satu per satu lewat pertanyaan berulang; catatan slot yang nggak dipakai sering nggak sinkron\n\n\nDesired state\nPengguna bisa tahu status ruang dalam hitungan menit tanpa perlu bikin dua daftar terpisah yang harus di-update manual\n\n\nValue\nBeban jawab pertanyaan berulang berkurang; teman-teman yang mau diskusi juga nggak buang waktu nunggu kepastian\n\n\nAcceptable risk\nUji coba terbatas di satu ruang selama beberapa hari kerja, dan bisa langsung dihentikan kapan saja kalau dirasa bikin ribet\n\n\nEvidence threshold\nNggak ada salah ubah data oleh pengguna biasa, dan alur pengecekan dinilai lebih ringan dibanding cara lama",
+    "text": "Current dan desired state\nDalam kegiatan edukasi literasi keuangan ke sekolah, aku berkomunikasi langsung dengan pihak guru dan kepala sekolah untuk mengurus izin pelaksanaan bagi siswa. Bagian ini penting karena jalannya acara sangat bergantung pada kesesuaian rencana dengan kebutuhan dan aturan sekolah.\n\n\n\n\n\n\n\nElemen\nRumusan\n\n\n\n\nCurrent state\nPelaksanaan kegiatan edukasi keuangan di sekolah masih perlu koordinasi awal dan persetujuan resmi dari pihak sekolah.\n\n\nDesired state\nPihak sekolah memahami maksud dan manfaat program serta memberi izin agar kegiatan edukasi bisa berjalan untuk siswa.\n\n\nValue\nSiswa mendapat bekal dasar pengelolaan keuangan sejak dini, sementara sekolah mendapat tambahan kegiatan edukatif yang relevan.\n\n\nAcceptable risk\nKegiatan batal atau ditunda jika tidak mendapat izin sekolah atau waktunya menabrak jadwal belajar siswa.\n\n\nEvidence threshold\nAda persetujuan dari pihak sekolah serta kesepakatan waktu dan alur teknis pelaksanaan kegiatan.",
     "crumbs": [
       "Beranda",
       "Desire-State Communication"
@@ -6718,29 +6718,29 @@
     "href": "portfolio/week-09.html#featurebenefitvalueoutcome-chain",
     "title": "Desire-State Communication",
     "section": "Feature–benefit–value–outcome chain",
-    "text": "Feature–benefit–value–outcome chain\nQR code menuju tampilan status satu sumber → pengguna melihat informasi jadwal yang sama → pertanyaan dasar soal ketersediaan ruang bisa terjawab mandiri → alur operasional lebih fokus ke kendala mendesak → waktu tunggu dan koordinasi kelompok membaik.\nRangkaian ini aku posisikan sebagai hipotesis awal, bukan jaminan pasti—tiap tahapnya masih perlu dibuktikan lewat uji coba kecil.",
+    "text": "Feature–benefit–value–outcome chain\nSesi edukasi literasi keuangan di sekolah → siswa mengikuti materi dan latihan sederhana soal keuangan → siswa paham dasar mengatur uang → siswa lebih berhati-hati mengambil keputusan finansial → kesadaran literasi keuangan siswa meningkat.\nRangkaian ini masih berupa hipotesis manfaat, karena acara berjalan atau materi tersampaikan belum otomatis membuktikan perubahan kebiasaan siswa. Dampak nyatanya tetap perlu dicek lagi setelah kegiatan selesai.",
     "crumbs": [
       "Beranda",
       "Desire-State Communication"
     ]
   },
   {
-    "objectID": "portfolio/week-09.html#percakapan-dan-response",
-    "href": "portfolio/week-09.html#percakapan-dan-response",
+    "objectID": "portfolio/week-09.html#evidence-percakapan-dan-response",
+    "href": "portfolio/week-09.html#evidence-percakapan-dan-response",
     "title": "Desire-State Communication",
-    "section": "Percakapan dan response",
-    "text": "Percakapan dan response\n\nSaya: “Kalau uji coba kecil ini nanti dianggap berhasil, kondisi seperti apa yang paling ingin dilihat di lapangan?”\nTarget: “Bukan cuma pertanyaannya yang berkurang. Yang paling penting jangan sampai ada dua daftar jadwal berbeda yang harus disinkronin manual terus.”\nSaya: “Berarti kalau draf alatku masih bikin lembar jadwal baru di luar data utama, itu tetap gagal di matamu meskipun tampilannya gampang dipakai?”\nTarget: “Iya, soalnya malah nambah kerjaan baru.”\n\nDari respons itu, aku ubah rancangan awalnya: tampilan status cuma membaca data dari sumber jadwal yang sudah ada, bukan bikin database atau lembar jadwal tandingan. Rumusan desired state-nya juga ikut bergeser dari sekadar “lebih sedikit pertanyaan” menjadi “jawaban cepat tanpa duplikasi kerja”.",
+    "section": "Evidence: Percakapan dan response",
+    "text": "Evidence: Percakapan dan response\nSaat mengurus perizinan kegiatan ke guru dan kepala sekolah, aku menyampaikan tujuan acara, manfaat yang disasar untuk siswa, serta gambaran teknis pelaksanaannya supaya pihak sekolah punya pegangan yang jelas.\nHal utama yang kuperhatikan: pihak sekolah punya pertimbangan sendiri sebelum menerima kegiatan dari luar, jadi aku nggak bisa cuma mikirin keinginan panitia agar acara jalan, melainkan harus menyesuaikan dengan kebutuhan dan kondisi sekolah.\nFokus komunikasi:\n\nMenjelaskan latar belakang dan tujuan kegiatan.\nMenyampaikan bahwa fokus utamanya edukasi literasi keuangan untuk siswa.\nMenyebutkan manfaat yang diharapkan bagi siswa dan sekolah.\nMenyesuaikan jadwal serta teknis pelaksanaan lewat diskusi dengan guru dan kepala sekolah.\n\nResponse dan adaptation:\nDari proses ini aku makin ngeh kalau nyebutin tujuan acara saja nggak cukup—pihak sekolah perlu tahu alasan kegiatan ini pas buat siswanya dan gimana cara mainnya biar nggak ganggu kegiatan sekolah.\nAku pun mengubah cara pandang: perizinan bukan sekadar formalitas surat-menyurat, tapi ruang menyamakan pemahaman antara tujuan tim pelaksana dan kebutuhan sekolah. Cara penyampaiannya diarahkan ke manfaat yang diterima siswa dan sekolah, bukan cuma target suksesnya acara dari sisi panitia.",
     "crumbs": [
       "Beranda",
       "Desire-State Communication"
     ]
   },
   {
-    "objectID": "portfolio/week-09.html#risk-evidence-dan-catatan-tindak-lanjut",
-    "href": "portfolio/week-09.html#risk-evidence-dan-catatan-tindak-lanjut",
+    "objectID": "portfolio/week-09.html#risk-dan-evidence",
+    "href": "portfolio/week-09.html#risk-dan-evidence",
     "title": "Desire-State Communication",
-    "section": "Risk, evidence, dan catatan tindak lanjut",
-    "text": "Risk, evidence, dan catatan tindak lanjut\n\nRisiko & mitigasi: Risiko utamanya ada di keterlambatan pembaruan data dari sumber utama. Sebagai pengaman, di tampilan status ditambahkan keterangan waktu pembaruan terakhir (“terakhir diperbarui pukul…”), dan keputusan akhir tetap mengacu pada konfirmasi operasional di tempat. Target juga baru menyetujui pengecekan teknis ringan (technical check) sebelum uji coba dijalankan, belum langsung pilot penuh.\nEvidence: Catatan poin percakapan perumusan desired state, skema perubahan alur data (dari dua sumber terpisah menjadi satu sumber baca), serta catatan kesepakatan technical check.\nPenggunaan AI: AI dipakai cuma buat ngecek apakah ada lompatan logika di feature–benefit–value–outcome chain yang kutulis. Aku nolak saran kalimat AI yang mengklaim angka persentase efisiensi karena memang belum ada data hasil uji cobanya.\nCatatan & langkah berikutnya: Pastikan setiap mengukur keberhasilan solusi selalu pakai indikator beban kerja nyata dari sisi target, bukan cuma asumsi kemudahan dari sisi pembuat prototipe.",
+    "section": "Risk dan evidence",
+    "text": "Risk dan evidence\nRisiko utamanya adalah izin tidak keluar atau jadwal bentrok dengan agenda akademik sekolah. Untuk mengantisipasinya:\n\nMenjelaskan tujuan dan manfaat program secara lugas ke pihak sekolah.\nMenyesuaikan isi materi agar pas dengan tingkat pemahaman siswa.\nMendiskusikan waktu dan teknis pelaksanaan langsung dengan guru serta kepala sekolah.\nMengikuti keputusan dan batasan yang ditetapkan pihak sekolah terkait perizinan.\n\nBukti keberhasilan di tahap komunikasi ini adalah adanya persetujuan dan kejelasan teknis dari pihak sekolah. Namun, persetujuan itu belum membuktikan naiknya pemahaman finansial siswa—hal tersebut baru bisa dilihat lewat evaluasi setelah sesi berlangsung.",
     "crumbs": [
       "Beranda",
       "Desire-State Communication"
@@ -6751,7 +6751,7 @@
     "href": "portfolio/week-09.html#self-assessment",
     "title": "Desire-State Communication",
     "section": "Self-assessment",
-    "text": "Self-assessment\n\n\n\n\n\n\n\n\nDimensi\nSkor\nAlasan\n\n\n\n\nPerson & Character\n3\nRumusan kondisi ideal (desired state) sudah memakai bahasa dan kebutuhan nyata target, meski pemetaan pemangku kepentingan lain masih singkat.\n\n\nObjective & State\n4\nPerbandingan current state, desired state, batas risiko, dan ambang bukti keberhasilan (evidence threshold) dijabarkan cukup jelas.\n\n\nRepertoire, Language & AI\n3\nRantai nilai (value chain) diposisikan jujur sebagai hipotesis dan peran AI dibatasi pada pengecekan logika.\n\n\nResponse & Adaptation\n4\nKekhawatiran soal duplikasi input data langsung mengubah arsitektur solusi agar tidak membuat sumber data kedua.\n\n\nAgreement, Action & Relationship\n3\nSepakat lanjut ke tahap pengecekan teknis ringan tanpa memaksakan komitmen pilot sebelum siap.\n\n\n\nTotal: 17/20 — Kompeten.",
+    "text": "Self-assessment\n\n\n\n\n\n\n\n\nDimensi\nSkor\nAlasan\n\n\n\n\nPerson & Character\n4\nMemperhatikan kepentingan siswa dan pihak sekolah, bukan sekadar kepentingan panitia sendiri.\n\n\nObjective & State\n4\nTujuan komunikasi jelas (mendapat izin dan kesepahaman manfaat) serta kondisi awal dan tujuan tergambar.\n\n\nRepertoire, Language & AI\n3\nPenyampaian tujuan dan manfaat program sudah mempertimbangkan sudut pandang sekolah, meski masih bisa lebih tajam.\n\n\nResponse & Adaptation\n4\nPendekatan disesuaikan setelah menangkap bahwa kebutuhan dan jadwal sekolah harus jadi pertimbangan utama.\n\n\nAgreement, Action & Relationship\n3\nKoordinasi langsung dengan guru dan kepala sekolah sudah berjalan untuk menyepakati pelaksanaan.\n\n\n\nTotal: 18/20.",
     "crumbs": [
       "Beranda",
       "Desire-State Communication"
