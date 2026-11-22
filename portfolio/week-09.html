@@ -273,12 +273,17 @@ ul.task-list li input[type="checkbox"] {
   <ul>
   <li><a href="#kompetensi-target" id="toc-kompetensi-target" class="nav-link active" data-scroll-target="#kompetensi-target">Kompetensi target</a></li>
   <li><a href="#evidence-wajib" id="toc-evidence-wajib" class="nav-link" data-scroll-target="#evidence-wajib">Evidence wajib</a></li>
+  <li><a href="#current-dan-desired-state" id="toc-current-dan-desired-state" class="nav-link" data-scroll-target="#current-dan-desired-state">Current dan desired state</a></li>
+  <li><a href="#featurebenefitvalueoutcome-chain" id="toc-featurebenefitvalueoutcome-chain" class="nav-link" data-scroll-target="#featurebenefitvalueoutcome-chain">Feature–benefit–value–outcome chain</a></li>
+  <li><a href="#percakapan-dan-response" id="toc-percakapan-dan-response" class="nav-link" data-scroll-target="#percakapan-dan-response">Percakapan dan response</a></li>
+  <li><a href="#risk-evidence-dan-catatan-tindak-lanjut" id="toc-risk-evidence-dan-catatan-tindak-lanjut" class="nav-link" data-scroll-target="#risk-evidence-dan-catatan-tindak-lanjut">Risk, evidence, dan catatan tindak lanjut</a></li>
+  <li><a href="#self-assessment" id="toc-self-assessment" class="nav-link" data-scroll-target="#self-assessment">Self-assessment</a></li>
   <li><a href="#konteks-performance" id="toc-konteks-performance" class="nav-link" data-scroll-target="#konteks-performance">Konteks performance</a></li>
   <li><a href="#evidence" id="toc-evidence" class="nav-link" data-scroll-target="#evidence">Evidence</a></li>
   <li><a href="#analisis-komunikasi" id="toc-analisis-komunikasi" class="nav-link" data-scroll-target="#analisis-komunikasi">Analisis komunikasi</a></li>
   <li><a href="#penggunaan-ai" id="toc-penggunaan-ai" class="nav-link" data-scroll-target="#penggunaan-ai">Penggunaan AI</a></li>
   <li><a href="#feedback-dan-tindak-lanjut" id="toc-feedback-dan-tindak-lanjut" class="nav-link" data-scroll-target="#feedback-dan-tindak-lanjut">Feedback dan tindak lanjut</a></li>
-  <li><a href="#self-assessment" id="toc-self-assessment" class="nav-link" data-scroll-target="#self-assessment">Self-assessment</a>
+  <li><a href="#self-assessment-1" id="toc-self-assessment-1" class="nav-link" data-scroll-target="#self-assessment-1">Self-assessment</a>
   <ul class="collapse">
   <li><a href="#assessment-dosen" id="toc-assessment-dosen" class="nav-link" data-scroll-target="#assessment-dosen">Assessment dosen</a></li>
   </ul></li>
@@ -340,6 +345,112 @@ ul.task-list li input[type="checkbox"] {
 <p><a href="../examples/week-09.html">Buka contoh fiktif Minggu 9</a> untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.</p>
 </div>
 </div>
+</section>
+<section id="current-dan-desired-state" class="level2">
+<h2 class="anchored" data-anchor-id="current-dan-desired-state">Current dan desired state</h2>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 50%">
+<col style="width: 50%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Elemen</th>
+<th>Rumusan berdasarkan sudut pandang target</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Current state</td>
+<td>Status ruang dicek manual satu per satu lewat pertanyaan berulang; catatan slot yang nggak dipakai sering nggak sinkron</td>
+</tr>
+<tr class="even">
+<td>Desired state</td>
+<td>Pengguna bisa tahu status ruang dalam hitungan menit tanpa perlu bikin dua daftar terpisah yang harus di-update manual</td>
+</tr>
+<tr class="odd">
+<td>Value</td>
+<td>Beban jawab pertanyaan berulang berkurang; teman-teman yang mau diskusi juga nggak buang waktu nunggu kepastian</td>
+</tr>
+<tr class="even">
+<td>Acceptable risk</td>
+<td>Uji coba terbatas di satu ruang selama beberapa hari kerja, dan bisa langsung dihentikan kapan saja kalau dirasa bikin ribet</td>
+</tr>
+<tr class="odd">
+<td>Evidence threshold</td>
+<td>Nggak ada salah ubah data oleh pengguna biasa, dan alur pengecekan dinilai lebih ringan dibanding cara lama</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="featurebenefitvalueoutcome-chain" class="level2">
+<h2 class="anchored" data-anchor-id="featurebenefitvalueoutcome-chain">Feature–benefit–value–outcome chain</h2>
+<p><code>QR code menuju tampilan status satu sumber</code> → pengguna melihat informasi jadwal yang sama → pertanyaan dasar soal ketersediaan ruang bisa terjawab mandiri → alur operasional lebih fokus ke kendala mendesak → waktu tunggu dan koordinasi kelompok membaik.</p>
+<p>Rangkaian ini aku posisikan sebagai <strong>hipotesis awal</strong>, bukan jaminan pasti—tiap tahapnya masih perlu dibuktikan lewat uji coba kecil.</p>
+</section>
+<section id="percakapan-dan-response" class="level2">
+<h2 class="anchored" data-anchor-id="percakapan-dan-response">Percakapan dan response</h2>
+<blockquote class="blockquote">
+<p><strong>Saya:</strong> “Kalau uji coba kecil ini nanti dianggap berhasil, kondisi seperti apa yang paling ingin dilihat di lapangan?”<br>
+<strong>Target:</strong> “Bukan cuma pertanyaannya yang berkurang. Yang paling penting jangan sampai ada dua daftar jadwal berbeda yang harus disinkronin manual terus.”<br>
+<strong>Saya:</strong> “Berarti kalau draf alatku masih bikin lembar jadwal baru di luar data utama, itu tetap gagal di matamu meskipun tampilannya gampang dipakai?”<br>
+<strong>Target:</strong> “Iya, soalnya malah nambah kerjaan baru.”</p>
+</blockquote>
+<p>Dari respons itu, aku ubah rancangan awalnya: tampilan status cuma membaca data dari sumber jadwal yang sudah ada, bukan bikin <em>database</em> atau lembar jadwal tandingan. Rumusan <em>desired state</em>-nya juga ikut bergeser dari sekadar “lebih sedikit pertanyaan” menjadi “jawaban cepat tanpa duplikasi kerja”.</p>
+</section>
+<section id="risk-evidence-dan-catatan-tindak-lanjut" class="level2">
+<h2 class="anchored" data-anchor-id="risk-evidence-dan-catatan-tindak-lanjut">Risk, evidence, dan catatan tindak lanjut</h2>
+<ul>
+<li><strong>Risiko &amp; mitigasi:</strong> Risiko utamanya ada di keterlambatan pembaruan data dari sumber utama. Sebagai pengaman, di tampilan status ditambahkan keterangan waktu pembaruan terakhir (<em>“terakhir diperbarui pukul…”</em>), dan keputusan akhir tetap mengacu pada konfirmasi operasional di tempat. Target juga baru menyetujui pengecekan teknis ringan (<em>technical check</em>) sebelum uji coba dijalankan, belum langsung <em>pilot</em> penuh.</li>
+<li><strong>Evidence:</strong> Catatan poin percakapan perumusan <em>desired state</em>, skema perubahan alur data (dari dua sumber terpisah menjadi satu sumber baca), serta catatan kesepakatan <em>technical check</em>.</li>
+<li><strong>Penggunaan AI:</strong> AI dipakai cuma buat ngecek apakah ada lompatan logika di <em>feature–benefit–value–outcome chain</em> yang kutulis. Aku nolak saran kalimat AI yang mengklaim angka persentase efisiensi karena memang belum ada data hasil uji cobanya.</li>
+<li><strong>Catatan &amp; langkah berikutnya:</strong> Pastikan setiap mengukur keberhasilan solusi selalu pakai indikator beban kerja nyata dari sisi target, bukan cuma asumsi kemudahan dari sisi pembuat prototipe.</li>
+</ul>
+</section>
+<section id="self-assessment" class="level2">
+<h2 class="anchored" data-anchor-id="self-assessment">Self-assessment</h2>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 30%">
+<col style="width: 40%">
+<col style="width: 30%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Dimensi</th>
+<th style="text-align: right;">Skor</th>
+<th>Alasan</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Person &amp; Character</td>
+<td style="text-align: right;">3</td>
+<td>Rumusan kondisi ideal (<em>desired state</em>) sudah memakai bahasa dan kebutuhan nyata target, meski pemetaan pemangku kepentingan lain masih singkat.</td>
+</tr>
+<tr class="even">
+<td>Objective &amp; State</td>
+<td style="text-align: right;">4</td>
+<td>Perbandingan <em>current state</em>, <em>desired state</em>, batas risiko, dan ambang bukti keberhasilan (<em>evidence threshold</em>) dijabarkan cukup jelas.</td>
+</tr>
+<tr class="odd">
+<td>Repertoire, Language &amp; AI</td>
+<td style="text-align: right;">3</td>
+<td>Rantai nilai (<em>value chain</em>) diposisikan jujur sebagai hipotesis dan peran AI dibatasi pada pengecekan logika.</td>
+</tr>
+<tr class="even">
+<td>Response &amp; Adaptation</td>
+<td style="text-align: right;">4</td>
+<td>Kekhawatiran soal duplikasi input data langsung mengubah arsitektur solusi agar tidak membuat sumber data kedua.</td>
+</tr>
+<tr class="odd">
+<td>Agreement, Action &amp; Relationship</td>
+<td style="text-align: right;">3</td>
+<td>Sepakat lanjut ke tahap pengecekan teknis ringan tanpa memaksakan komitmen <em>pilot</em> sebelum siap.</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Total: 17/20 — Kompeten.</strong></p>
 </section>
 <section id="konteks-performance" class="level2">
 <h2 class="anchored" data-anchor-id="konteks-performance">Konteks performance</h2>
@@ -407,8 +518,8 @@ ul.task-list li input[type="checkbox"] {
 <p><strong>Adaptation/replay:</strong> Jelaskan apa yang Anda ubah dan response setelah perubahan.</p>
 <p><strong>Next practice:</strong> Tetapkan satu perilaku spesifik yang akan dilatih berikutnya.</p>
 </section>
-<section id="self-assessment" class="level2">
-<h2 class="anchored" data-anchor-id="self-assessment">Self-assessment</h2>
+<section id="self-assessment-1" class="level2">
+<h2 class="anchored" data-anchor-id="self-assessment-1">Self-assessment</h2>
 <table class="caption-top table">
 <thead>
 <tr class="header">
