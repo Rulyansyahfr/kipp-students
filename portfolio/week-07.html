@@ -273,12 +273,17 @@ ul.task-list li input[type="checkbox"] {
   <ul>
   <li><a href="#kompetensi-target" id="toc-kompetensi-target" class="nav-link active" data-scroll-target="#kompetensi-target">Kompetensi target</a></li>
   <li><a href="#evidence-wajib" id="toc-evidence-wajib" class="nav-link" data-scroll-target="#evidence-wajib">Evidence wajib</a></li>
+  <li><a href="#attention-evidence-dan-solution-hypothesis" id="toc-attention-evidence-dan-solution-hypothesis" class="nav-link" data-scroll-target="#attention-evidence-dan-solution-hypothesis">Attention evidence dan solution hypothesis</a></li>
+  <li><a href="#pitch-dan-demonstration" id="toc-pitch-dan-demonstration" class="nav-link" data-scroll-target="#pitch-dan-demonstration">Pitch dan demonstration</a></li>
+  <li><a href="#hidden-concern-dan-adaptation" id="toc-hidden-concern-dan-adaptation" class="nav-link" data-scroll-target="#hidden-concern-dan-adaptation">Hidden concern dan adaptation</a></li>
+  <li><a href="#evidence-ai-dan-catatan-tindak-lanjut" id="toc-evidence-ai-dan-catatan-tindak-lanjut" class="nav-link" data-scroll-target="#evidence-ai-dan-catatan-tindak-lanjut">Evidence, AI, dan catatan tindak lanjut</a></li>
+  <li><a href="#self-assessment" id="toc-self-assessment" class="nav-link" data-scroll-target="#self-assessment">Self-assessment</a></li>
   <li><a href="#konteks-performance" id="toc-konteks-performance" class="nav-link" data-scroll-target="#konteks-performance">Konteks performance</a></li>
   <li><a href="#evidence" id="toc-evidence" class="nav-link" data-scroll-target="#evidence">Evidence</a></li>
   <li><a href="#analisis-komunikasi" id="toc-analisis-komunikasi" class="nav-link" data-scroll-target="#analisis-komunikasi">Analisis komunikasi</a></li>
   <li><a href="#penggunaan-ai" id="toc-penggunaan-ai" class="nav-link" data-scroll-target="#penggunaan-ai">Penggunaan AI</a></li>
   <li><a href="#feedback-dan-tindak-lanjut" id="toc-feedback-dan-tindak-lanjut" class="nav-link" data-scroll-target="#feedback-dan-tindak-lanjut">Feedback dan tindak lanjut</a></li>
-  <li><a href="#self-assessment" id="toc-self-assessment" class="nav-link" data-scroll-target="#self-assessment">Self-assessment</a>
+  <li><a href="#self-assessment-1" id="toc-self-assessment-1" class="nav-link" data-scroll-target="#self-assessment-1">Self-assessment</a>
   <ul class="collapse">
   <li><a href="#assessment-dosen" id="toc-assessment-dosen" class="nav-link" data-scroll-target="#assessment-dosen">Assessment dosen</a></li>
   </ul></li>
@@ -340,6 +345,107 @@ ul.task-list li input[type="checkbox"] {
 <p><a href="../examples/week-07.html">Buka contoh fiktif Minggu 7</a> untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.</p>
 </div>
 </div>
+</section>
+<section id="attention-evidence-dan-solution-hypothesis" class="level2">
+<h2 class="anchored" data-anchor-id="attention-evidence-dan-solution-hypothesis">Attention evidence dan solution hypothesis</h2>
+<p>Dari pengecekan kasar dua minggu biasa kemarin, tercatat sekitar 11 kali pertanyaan soal status ruang dan 5 sesi reservasi yang ruangnya dibiarkan kosong. Target juga sudah mengakui kalau kejelasan status dan ruang yang ditinggal kosong memang layak diperbaiki.</p>
+<p><strong>Solution hypothesis:</strong> lembar pantau status berbasis spreadsheet ringan dengan akses QR code dan konfirmasi hadir singkat bisa bikin status ruang lebih kelihatan tanpa bikin orang harus install aplikasi baru.</p>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 25%">
+<col style="width: 25%">
+<col style="width: 25%">
+<col style="width: 25%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Problem</th>
+<th>Mechanism</th>
+<th>Expected benefit</th>
+<th>Value bagi target</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Status ruang nggak kelihatan seragam</td>
+<td>Tampilan jadwal baca-saja (read-only) terpusat</td>
+<td>Semua orang lihat kondisi slot yang sama</td>
+<td>Pertanyaan berulang soal status ruang berkurang</td>
+</tr>
+<tr class="even">
+<td>Ruang kosong karena pemesan nggak datang</td>
+<td>Konfirmasi hadir singkat dalam 10 menit pertama</td>
+<td>Slot kosong bisa dilepas dan dipakai yang lain</td>
+<td>Alur ruang lebih tertib dan jarang bentrok</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="pitch-dan-demonstration" class="level2">
+<h2 class="anchored" data-anchor-id="pitch-dan-demonstration">Pitch dan demonstration</h2>
+<blockquote class="blockquote">
+<p>“Kemarin kan sempat kelihatan kalau pertanyaan soal status ruang itu lumayan sering muncul. Prototipe ini nggak gantiin sistem utama—QR-nya cuma buka jadwal hari ini dan ada tombol konfirmasi hadir singkat. Boleh dicoba dulu di satu ruang selama lima hari, nanti kita lihat bareng apakah jumlah pertanyaan dan ruang kosongnya berkurang atau nggak.”</p>
+</blockquote>
+<p>Aku nunjukin prototipe sederhananya sekitar satu setengah menitan. Target sempat nyoba buka tampilannya, lalu nanya: “Ini kelihatannya gampang dipake, tapi kalau ada mahasiswa yang iseng atau salah ubah isian, siapa yang ngeberesin datanya?”</p>
+</section>
+<section id="hidden-concern-dan-adaptation" class="level2">
+<h2 class="anchored" data-anchor-id="hidden-concern-dan-adaptation">Hidden concern dan adaptation</h2>
+<p>Awalnya aku kira keberatan utamanya bakal soal biaya atau kerumitan setup. Ternyata dari responnya kelihatan kalau kekhawatiran sebenarnya ada di <strong>keamanan data dan beban kerja tambahan</strong> kalau harus benerin data yang berantakan. Aku nggak maksa mempertahankan alur awal yang bebas edit.</p>
+<p>Adaptasinya: akses isian buat pengguna dibatasi lewat form input terpisah, sedangkan sheet utama cuma bisa diedit sama petugas. Janjinya juga aku turunin dari “pasti ngurangin konflik ruang” jadi “menguji apakah tampilan status bareng ini benar-benar ngurangin pertanyaan berulang”.</p>
+<p>Di titik ini target sudah kasih sinyal <strong>Interest</strong>—minta lihat contoh form pembatasannya dan mau diskusi soal cara ngukur uji coba—tapi belum kasih izin jalan penuh.</p>
+</section>
+<section id="evidence-ai-dan-catatan-tindak-lanjut" class="level2">
+<h2 class="anchored" data-anchor-id="evidence-ai-dan-catatan-tindak-lanjut">Evidence, AI, dan catatan tindak lanjut</h2>
+<ul>
+<li><strong>Evidence:</strong> Catatan rekap singkat dua minggu (11 pertanyaan status &amp; 5 ruang kosong), dua versi draf prototipe lembar pantau, catatan poin keberatan saat demo, dan draf pembatasan akses input.</li>
+<li><strong>Penggunaan AI:</strong> Aku pakai AI cuma buat bantu mendaftar kemungkinan risiko umum dari alur yang kuusulkan, lalu kusesuaikan sendiri sama kondisi di lapangan. Urusan aturan akses data dan keputusan teknis tetap kuatur sendiri tanpa masukin data orang lain.</li>
+<li><strong>Catatan &amp; langkah berikutnya:</strong> Biasain nanyain potensi keberatan/kekhawatiran sejak awal sebelum mulai nunjukin demo, jangan nunggu sampai ditolak/di-objection di akhir.</li>
+</ul>
+</section>
+<section id="self-assessment" class="level2">
+<h2 class="anchored" data-anchor-id="self-assessment">Self-assessment</h2>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 30%">
+<col style="width: 40%">
+<col style="width: 30%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Dimensi</th>
+<th style="text-align: right;">Skor</th>
+<th>Alasan</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Person &amp; Character</td>
+<td style="text-align: right;">3</td>
+<td>Kebutuhan dan beban kerja target mulai kebaca, meski pemetaan perannya masih bisa lebih rinci.</td>
+</tr>
+<tr class="even">
+<td>Objective &amp; State</td>
+<td style="text-align: right;">3</td>
+<td>Transisi dari perhatian ke sinyal minat sudah kelihatan, walau batas ukurannya masih umum.</td>
+</tr>
+<tr class="odd">
+<td>Repertoire, Language &amp; AI</td>
+<td style="text-align: right;">4</td>
+<td>Demo singkat, penyesuaian klaim, dan pembatasan peran AI cukup jelas.</td>
+</tr>
+<tr class="even">
+<td>Response &amp; Adaptation</td>
+<td style="text-align: right;">4</td>
+<td>Kekhawatiran soal data berantakan dan beban kerja langsung direspons dengan ubah mekanisme akses.</td>
+</tr>
+<tr class="odd">
+<td>Agreement, Action &amp; Relationship</td>
+<td style="text-align: right;">3</td>
+<td>Ada kesepakatan lihat versi form dan bahas ukuran uji coba, meski belum ada jadwal pastinya.</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Total: 17/20 — Kompeten.</strong></p>
 </section>
 <section id="konteks-performance" class="level2">
 <h2 class="anchored" data-anchor-id="konteks-performance">Konteks performance</h2>
@@ -407,8 +513,8 @@ ul.task-list li input[type="checkbox"] {
 <p><strong>Adaptation/replay:</strong> Jelaskan apa yang Anda ubah dan response setelah perubahan.</p>
 <p><strong>Next practice:</strong> Tetapkan satu perilaku spesifik yang akan dilatih berikutnya.</p>
 </section>
-<section id="self-assessment" class="level2">
-<h2 class="anchored" data-anchor-id="self-assessment">Self-assessment</h2>
+<section id="self-assessment-1" class="level2">
+<h2 class="anchored" data-anchor-id="self-assessment-1">Self-assessment</h2>
 <table class="caption-top table">
 <thead>
 <tr class="header">

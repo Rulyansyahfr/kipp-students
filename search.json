@@ -6549,6 +6549,61 @@
     ]
   },
   {
+    "objectID": "portfolio/week-07.html#attention-evidence-dan-solution-hypothesis",
+    "href": "portfolio/week-07.html#attention-evidence-dan-solution-hypothesis",
+    "title": "Problem–Solution Interest Pitch",
+    "section": "Attention evidence dan solution hypothesis",
+    "text": "Attention evidence dan solution hypothesis\nDari pengecekan kasar dua minggu biasa kemarin, tercatat sekitar 11 kali pertanyaan soal status ruang dan 5 sesi reservasi yang ruangnya dibiarkan kosong. Target juga sudah mengakui kalau kejelasan status dan ruang yang ditinggal kosong memang layak diperbaiki.\nSolution hypothesis: lembar pantau status berbasis spreadsheet ringan dengan akses QR code dan konfirmasi hadir singkat bisa bikin status ruang lebih kelihatan tanpa bikin orang harus install aplikasi baru.\n\n\n\n\n\n\n\n\n\nProblem\nMechanism\nExpected benefit\nValue bagi target\n\n\n\n\nStatus ruang nggak kelihatan seragam\nTampilan jadwal baca-saja (read-only) terpusat\nSemua orang lihat kondisi slot yang sama\nPertanyaan berulang soal status ruang berkurang\n\n\nRuang kosong karena pemesan nggak datang\nKonfirmasi hadir singkat dalam 10 menit pertama\nSlot kosong bisa dilepas dan dipakai yang lain\nAlur ruang lebih tertib dan jarang bentrok",
+    "crumbs": [
+      "Beranda",
+      "Problem–Solution Interest Pitch"
+    ]
+  },
+  {
+    "objectID": "portfolio/week-07.html#pitch-dan-demonstration",
+    "href": "portfolio/week-07.html#pitch-dan-demonstration",
+    "title": "Problem–Solution Interest Pitch",
+    "section": "Pitch dan demonstration",
+    "text": "Pitch dan demonstration\n\n“Kemarin kan sempat kelihatan kalau pertanyaan soal status ruang itu lumayan sering muncul. Prototipe ini nggak gantiin sistem utama—QR-nya cuma buka jadwal hari ini dan ada tombol konfirmasi hadir singkat. Boleh dicoba dulu di satu ruang selama lima hari, nanti kita lihat bareng apakah jumlah pertanyaan dan ruang kosongnya berkurang atau nggak.”\n\nAku nunjukin prototipe sederhananya sekitar satu setengah menitan. Target sempat nyoba buka tampilannya, lalu nanya: “Ini kelihatannya gampang dipake, tapi kalau ada mahasiswa yang iseng atau salah ubah isian, siapa yang ngeberesin datanya?”",
+    "crumbs": [
+      "Beranda",
+      "Problem–Solution Interest Pitch"
+    ]
+  },
+  {
+    "objectID": "portfolio/week-07.html#hidden-concern-dan-adaptation",
+    "href": "portfolio/week-07.html#hidden-concern-dan-adaptation",
+    "title": "Problem–Solution Interest Pitch",
+    "section": "Hidden concern dan adaptation",
+    "text": "Hidden concern dan adaptation\nAwalnya aku kira keberatan utamanya bakal soal biaya atau kerumitan setup. Ternyata dari responnya kelihatan kalau kekhawatiran sebenarnya ada di keamanan data dan beban kerja tambahan kalau harus benerin data yang berantakan. Aku nggak maksa mempertahankan alur awal yang bebas edit.\nAdaptasinya: akses isian buat pengguna dibatasi lewat form input terpisah, sedangkan sheet utama cuma bisa diedit sama petugas. Janjinya juga aku turunin dari “pasti ngurangin konflik ruang” jadi “menguji apakah tampilan status bareng ini benar-benar ngurangin pertanyaan berulang”.\nDi titik ini target sudah kasih sinyal Interest—minta lihat contoh form pembatasannya dan mau diskusi soal cara ngukur uji coba—tapi belum kasih izin jalan penuh.",
+    "crumbs": [
+      "Beranda",
+      "Problem–Solution Interest Pitch"
+    ]
+  },
+  {
+    "objectID": "portfolio/week-07.html#evidence-ai-dan-catatan-tindak-lanjut",
+    "href": "portfolio/week-07.html#evidence-ai-dan-catatan-tindak-lanjut",
+    "title": "Problem–Solution Interest Pitch",
+    "section": "Evidence, AI, dan catatan tindak lanjut",
+    "text": "Evidence, AI, dan catatan tindak lanjut\n\nEvidence: Catatan rekap singkat dua minggu (11 pertanyaan status & 5 ruang kosong), dua versi draf prototipe lembar pantau, catatan poin keberatan saat demo, dan draf pembatasan akses input.\nPenggunaan AI: Aku pakai AI cuma buat bantu mendaftar kemungkinan risiko umum dari alur yang kuusulkan, lalu kusesuaikan sendiri sama kondisi di lapangan. Urusan aturan akses data dan keputusan teknis tetap kuatur sendiri tanpa masukin data orang lain.\nCatatan & langkah berikutnya: Biasain nanyain potensi keberatan/kekhawatiran sejak awal sebelum mulai nunjukin demo, jangan nunggu sampai ditolak/di-objection di akhir.",
+    "crumbs": [
+      "Beranda",
+      "Problem–Solution Interest Pitch"
+    ]
+  },
+  {
+    "objectID": "portfolio/week-07.html#self-assessment",
+    "href": "portfolio/week-07.html#self-assessment",
+    "title": "Problem–Solution Interest Pitch",
+    "section": "Self-assessment",
+    "text": "Self-assessment\n\n\n\n\n\n\n\n\nDimensi\nSkor\nAlasan\n\n\n\n\nPerson & Character\n3\nKebutuhan dan beban kerja target mulai kebaca, meski pemetaan perannya masih bisa lebih rinci.\n\n\nObjective & State\n3\nTransisi dari perhatian ke sinyal minat sudah kelihatan, walau batas ukurannya masih umum.\n\n\nRepertoire, Language & AI\n4\nDemo singkat, penyesuaian klaim, dan pembatasan peran AI cukup jelas.\n\n\nResponse & Adaptation\n4\nKekhawatiran soal data berantakan dan beban kerja langsung direspons dengan ubah mekanisme akses.\n\n\nAgreement, Action & Relationship\n3\nAda kesepakatan lihat versi form dan bahas ukuran uji coba, meski belum ada jadwal pastinya.\n\n\n\nTotal: 17/20 — Kompeten.",
+    "crumbs": [
+      "Beranda",
+      "Problem–Solution Interest Pitch"
+    ]
+  },
+  {
     "objectID": "portfolio/week-07.html#konteks-performance",
     "href": "portfolio/week-07.html#konteks-performance",
     "title": "Problem–Solution Interest Pitch",
@@ -6604,8 +6659,8 @@
     ]
   },
   {
-    "objectID": "portfolio/week-07.html#self-assessment",
-    "href": "portfolio/week-07.html#self-assessment",
+    "objectID": "portfolio/week-07.html#self-assessment-1",
+    "href": "portfolio/week-07.html#self-assessment-1",
     "title": "Problem–Solution Interest Pitch",
     "section": "Self-assessment",
     "text": "Self-assessment\n\n\n\nDimensi\nSkor 1–4\nEvidence singkat\n\n\n\n\nPerson & Character\n—\n—\n\n\nObjective & State\n—\n—\n\n\nRepertoire, Language & AI\n—\n—\n\n\nResponse & Adaptation\n—\n—\n\n\nAgreement, Action & Relationship\n—\n—\n\n\n\nTotal: — / 20\n\nAssessment dosen\nSkor: — / 20\nEvidence yang mendukung: —\nPrioritas perbaikan: —\nKeputusan: Belum dinilai / Perlu revisi / Tercapai",
