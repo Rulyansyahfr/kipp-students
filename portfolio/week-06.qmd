@@ -1,8 +1,8 @@
 ---
 title: "Target–Attention Challenge"
 week: 6
-status: "Siap dinilai"
-self_score: "17"
+status: "Selesai"
+self_score: "18"
 assessor_score: "—"
 description: "Target map, attention pitch, response, dan state assessment."
 categories: [TAIDA, Attention]
@@ -24,47 +24,54 @@ Memilih target person yang tepat dan membuat issue diakui relevan melalui eviden
 
 ## Target map
 
+Konteksnya di kepanitiaan—aku pegang bagian dokumentasi dan butuh susunan rundown yang jelas buat plotting tim.
+
 | Person | Relevance | Authority | Current state |
 |---|---|---|---|
-| Koordinator/pengelola ruang | Mengatur alokasi dan aturan pakai ruang | Bisa menyetujui uji coba kecil | Belum terlalu paham / netral |
-| Penjaga/petugas operasional | Langsung berhadapan dengan bentrok jadwal & ruang kosong | Bisa menjalankan alur harian | Sudah sadar masalah |
-| Ketua kelompok / pengguna aktif | Rutin memakai ruang buat diskusi | Bisa bantu uji coba alur baru | Sudah sadar masalah |
-| Tim teknis / sistem | Mengurus infrastruktur jika nanti ada fitur tambahan | Dibutuhkan kalau skalanya diperbesar | Belum dilibatkan |
+| Anggota divisi dokumentasi | Terdampak langsung karena butuh rundown buat plot posisi/tugas | Bisa bantu uji alur kerja baru | Sudah sadar masalah |
+| Koordinator / kepala bidang | Terdampak kalau sempat ada miskomunikasi antarbagian | Bisa memengaruhi aturan di lingkup bidangnya | Sudah sadar masalah |
+| Penanggung jawab / koordinator acara | Penyedia utama rundown kegiatan | Bisa menentukan versi final dan tempat penyimpanan | Belum terlalu paham / netral |
+| Ketua pelaksana | Bertanggung jawab atas alur keseluruhan panitia | Bisa bikin aturan satu tempat simpan buat semua divisi | Belum terlalu paham / netral |
 
-Aku memilih **penjaga/petugas operasional** sebagai target awal karena mereka paling sering ketemu langsung sama situasi ruang yang kelihatannya kosong tapi ternyata sudah dipesan atau sebaliknya, dan bisa bantu ngecek apakah keluhan ini memang sering kejadian di keseharian. Aku nggak langsung minta persetujuan perubahan besar ke pengelola sebelum masalah utamanya kepegang buktinya.
+Aku memilih **koordinator acara** sebagai target awal karena beliau yang pegang penyusunan rundown, jadi kalau ada versi yang beda-beda bisa langsung dirapikan dari sumbernya. Hubungannya juga setara di kepanitiaan, jadi bisa langsung diobrolin tanpa perlu naik ke ketua pelaksana dulu—kecuali kalau masalahnya memang sudah meluas ke banyak divisi lain.
 
 ## Attention pitch
 
-> “Dari obrolan singkat sama beberapa teman minggu ini, ada beberapa kelompok yang molor mulai diskusinya karena status ruang kurang jelas—kadang nunggu nggak pasti atau pindah tempat mendadak. Di catatan singkat juga sempat muncul beberapa keluhan soal jadwal bentrok. Aku belum mau buru-buru nyimpulin kalau jumlah ruangnya kurang. Boleh nggak kita cek bareng apakah masalah utamanya memang di kejelasan status pemakaian dan ruang yang ditinggal kosong?”
+> “Aku sama anak-anak dokumentasi agak kesulitan nyari rundown karena filenya nyebar di dua tempat berbeda, padahal itu kepake banget buat plotting tim. Bisa tolong dijadiin satu acuan aja?”
 
-Pas nyampein pitch ini aku sengaja nyebutin batas datanya secara terus terang—kalau ini masih temuan awal dari obrolan terbatas dan catatan singkat, bukan klaim menyeluruh—biar nggak terkesan melebih-lebihkan.
+Bukti yang aku pakai: rundown yang sama ada di dua tempat terpisah, sekitar tiga orang di tim terdampak, dan plotting dokumentasi sempat mundur dua hari bulan ini. Ini pengalaman langsung dari timku saja, bukan data survei menyeluruh ke semua panitia, jadi aku nggak mengklaim kondisi ini pasti sama di seluruh divisi.
 
 ## Response dan state assessment
 
-Respons yang muncul intinya masalahnya memang ada, cuma waktu itu kebetulan lagi ramai kegiatan, jadi di hari biasa mungkin kondisinya nggak separah itu. Dari situ kelihatan kalau isunya **diakui relevan**, tapi seberapa seringnya masih diraguin. Jadi posisinya geser dari sekadar **sadar masalah** ke arah **perhatian dengan catatan/keraguan**, belum sampai ke tahap tertarik sama solusi tertentu.
+Respons yang muncul intinya santai dan langsung nerima: ya sudah nanti dirapikan sekalian, kemarin timnya juga lagi kejar-kejaran persiapan. Dari situ kelihatan isunya langsung diakui relevan tanpa ada perdebatan soal besar-kecilnya masalah.
 
-Aku nyesuaiin lagi arah obrolannya:
+Posisinya bergeser dari **belum terlalu paham / netral** ke **perhatian** dan langsung masuk ke tindakan. Tahap ketertarikan lanjutan atau keinginan jangka panjang belum diuji di sini karena kebutuhannya memang langsung ke perapihan file.
 
-> “Masuk akal sih kalau pas lagi ramai angkanya kelihatan lebih tinggi. Kalau gitu, boleh nggak aku lihat gambaran kasarnya di beberapa hari biasa aja dulu sebelum mikirin langkah perbaikannya?”
+Karena tanggapannya langsung terbuka, aku nggak mengubah pendekatan—gaya ngobrol santai tetap dipakai karena posisinya setara di kepanitiaan, dan tujuannya tetap sama: satu rundown yang jelas buat plotting.
 
-Kesepakatannya mengarah ke ngecek gambaran kasar di hari biasa tanpa nyentuh data pribadi siapa pun. Tujuan obrolannya juga ikut bergeser: dari awalnya nyari dukungan awal, jadi nyepakatin cara ngecek fakta yang lebih adil dulu.
+## Evidence dan refleksi
 
-## Evidence, AI, dan catatan tindak lanjut
+- **Rekonstruksi percakapan** *(ditulis ulang dari ingatan, bukan rekaman atau salinan chat mentah)*:
 
-- **Evidence:** Catatan poin hasil ngobrol singkat dengan tiga teman soal kendala mulai diskusi ruang, rekap singkat keluhan jadwal bentrok yang sempat dicatat, serta ringkasan obrolan dan kesepakatan ngecek kondisi hari biasa bareng target.
-- **Penggunaan AI:** Aku pakai AI buat ngecek apakah kalimat pitch-ku sudah misahin antara fakta kejadian dan kesimpulan sendiri, serta mastiin nggak ada bahasa yang terlalu mengklaim berlebihan. Nggak ada data pribadi atau identitas orang lain yang aku masukin ke sana.
-- **Catatan & langkah berikutnya:** Latihan nyampein inti masalah dan relevansinya dengan singkat tanpa nutupin keterbatasan data yang ada. Berikutnya aku mau ngecek gambaran di hari biasa dulu sebelum nentuin langkah lanjutan.
+| Pembicara | Ucapan |
+|---|---|
+| Aku | “Aku sama anak-anak dokumentasi agak kesulitan nyari rundown karena filenya nyebar di dua tempat berbeda, padahal itu kepake banget buat plotting tim. Bisa tolong dijadiin satu acuan aja?” |
+| Target (koordinator acara) | “Oke aman aja, nanti aku rapikan. Maaf kemarin tim kami juga lagi chaos.” |
+
+- **Kesepakatan & tindak lanjut:** Rundown dirapikan menjadi satu acuan dan dipakai untuk plotting kegiatan.
+- **Penggunaan AI:** AI dipakai cuma buat bantu ngerapiin susunan tulisan dari cerita dan catatan kejadianku sendiri. Cerita, respons lawan bicara, dan rincian angka (dua tempat file, tiga anggota terdampak, mundur dua hari) semuanya dari pengalamanku, bukan buatan AI.
+- **Catatan & langkah berikutnya:** Ke depannya bukti seperti jumlah orang terdampak dan selisih waktu mundur perlu disebut lebih eksplisit saat menyampaikan masalah, tapi tetap dengan nada ngajak beres-beres bareng, bukan nyalahin.
 
 ## Self-assessment
 
 | Dimensi | Skor | Alasan |
 |---|---:|---|
-| Person & Character | 4 | Pemilihan target didasarkan pada kedekatan dengan masalah di lapangan dan peran praktisnya. |
-| Objective & State | 3 | Perubahan posisi target dan tujuan percakapan sudah cukup jelas, meski ukuran target pergeserannya masih bisa lebih tajam. |
-| Repertoire, Language & AI | 4 | Bahasa pitch lugas, batas data disebutkan, dan pemakaian AI dibatasi dengan jelas. |
-| Response & Adaptation | 3 | Keraguan soal konteks waktu ditanggapi dengan mengubah fokus ke hari biasa, walau alur tanya-jawabnya masih bisa diperhalus. |
-| Agreement, Action & Relationship | 3 | Arah cek data lanjutan dan batasan privasi disepakati, tinggal detail waktu pengecekan pastinya yang perlu diperjelas. |
+| Person & Character | 4 | Target dipilih karena paling dekat dengan sumber masalah dan setara perannya, dengan alasan jelas kenapa belum dibawa ke ketua pelaksana. |
+| Objective & State | 4 | Tujuan minta perapihan rundown jelas dan perubahan posisi target dari netral ke perhatian tercatat. |
+| Repertoire, Language & AI | 3 | Gaya bahasanya pas buat rekan kepanitiaan, meski angka bukti belum disebut gamblang di kalimat pitch. |
+| Response & Adaptation | 3 | Respons target dibaca dengan baik dan posisi diperbarui, walau belum ada penolakan atau keberatan yang menuntut perubahan taktik. |
+| Agreement, Action & Relationship | 4 | Kesepakatan perapihan rundown tercapai dan hubungan kerja tetap akur. |
 
-**Total: 17/20 — Kompeten.**
+**Total: 18/20.**
 
 {{< include ../includes/evidence-template.md >}}
